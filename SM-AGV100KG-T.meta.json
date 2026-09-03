@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV100KG-T",
+    "name": "Latent Lifting AGV Transfer Robot",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV100KG-T-Latent-Lifting-AGV-Robot-100KG-Trolley-Transfer-SMT-EMS-Southern-Machinery.png",
+    "title": "SM-AGV100KG-T Latent Lifting AGV Transfer Robot | Southern Machinery",
+    "description": "Low-profile trolley that slides under carts and lifts them 50 mm to move materials across electronics workshops. 100KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV100KG-T",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV100KG-T Latent Lifting AGV Transfer Robot — Low-profile trolley that slides under carts and lifts them 50 mm to move materials across electronics workshops."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strip, bi-direction",
+    "Loading Capacity": "100 KG",
+    "Max. Speed": "20-40 m/min",
+    "Stop Accuracy": "2 cm",
+    "Size / Weight": "700×500×300 mm / 50 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

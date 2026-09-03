@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "S-AGV150KG-A",
+    "name": "150KG Ultra-Capacity AGV Robot",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "S-AGV150KG-A-150KG-Ultra-Capacity-AGV-Robot-Magnetic-Navigation-SMT-EMS-Southern-Machinery.png",
+    "title": "S-AGV150KG-A 150KG Ultra-Capacity AGV Robot | Southern Machinery",
+    "description": "Lightweight-body trolley carrying up to 150 kg of wave soldering fixtures, SMT jigs and production materials. 150KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "S-AGV150KG-A",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "S-AGV150KG-A 150KG Ultra-Capacity AGV Robot — Lightweight-body trolley carrying up to 150 kg of wave soldering fixtures, SMT jigs and production materials."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strip, bi-direction",
+    "Loading Capacity": "150 KG",
+    "Max. Speed": "40 m/min",
+    "Stop Accuracy": "2 cm",
+    "Size / Weight": "700×500×550 mm / 60 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

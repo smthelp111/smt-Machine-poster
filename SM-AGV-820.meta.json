@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV-820",
+    "name": "Non-Contact Wireless Charging Pile",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV-820-Wireless-Charging-Pile-Non-Contact-AGV-Docking-25-2V-SMT-EMS-Southern-Machinery.png",
+    "title": "SM-AGV-820 Non-Contact Wireless Charging Pile | Southern Machinery",
+    "description": "Electromagnetic induction charging station — contact-free docking with launch and receiving plates, zero wear. 10-30mm Contact-Free Gap. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV-820",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "AGV charging station",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV-820 Non-Contact Wireless Charging Pile — Electromagnetic induction charging station — contact-free docking with launch and receiving plates, zero wear."
+  },
+  "key_specs": {
+    "Charging Method": "Electromagnetic induction",
+    "Output": "25.2V / 2-5A",
+    "Pairing": "2.4G wireless",
+    "Distance / Deviation": "10-30 mm / ±20 mm",
+    "Pile Size": "170×220×385 mm / 5.65 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

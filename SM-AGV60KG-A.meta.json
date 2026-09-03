@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV60KG-A",
+    "name": "Ultrasonic Radar AGV Robot",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV60KG-A-Ultrasonic-Radar-AGV-Robot-60KG-Touch-Screen-SMT-EMS-Southern-Machinery.png",
+    "title": "SM-AGV60KG-A Ultrasonic Radar AGV Robot | Southern Machinery",
+    "description": "Knapsack-type intelligent trolley with ultrasonic radar, emergency stop and 4.3-inch touch screen for electronics workshops. 60KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV60KG-A",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV60KG-A Ultrasonic Radar AGV Robot — Knapsack-type intelligent trolley with ultrasonic radar, emergency stop and 4.3-inch touch screen for electronics workshops."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strip, bi-direction",
+    "Loading Capacity": "60 KG",
+    "Max. Speed": "20-40 m/min",
+    "Stop Accuracy": "2 cm",
+    "Size / Weight": "550×450×550 mm / 35 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV50KG-550A",
+    "name": "Backpack AGV Transport Trolley",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV50KG-550A-Backpack-AGV-Trolley-50KG-SMT-Wave-Soldering-Material-Transport-EMS-Southern-Machinery.png",
+    "title": "SM-AGV50KG-550A Backpack AGV Transport Trolley | Southern Machinery",
+    "description": "Simple, lightweight and ultra-long-endurance backpack trolley for wave soldering fixtures, SMT transport and office logistics. 50KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV50KG-550A",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV50KG-550A Backpack AGV Transport Trolley — Simple, lightweight and ultra-long-endurance backpack trolley for wave soldering fixtures, SMT transport and office logistics."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strip, single line",
+    "Loading Capacity": "50 KG",
+    "Max. Speed": "20-40 m/min",
+    "Stop Accuracy": "3 cm",
+    "Size / Weight": "550×450×550 mm / 30 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV30KG-B",
+    "name": "Magnetic Navigation AGV Transport Robot",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV30KG-B-Magnetic-Navigation-AGV-Robot-30KG-SMT-Wave-Soldering-Transport-EMS-Southern-Machinery.png",
+    "title": "SM-AGV30KG-B Magnetic Navigation AGV Transport Robot | Southern Machinery",
+    "description": "Backpack-type intelligent transport trolley for wave soldering furnaces, SMT fixtures and line materials in EMS factories. 30KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV30KG-B",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV30KG-B Magnetic Navigation AGV Transport Robot — Backpack-type intelligent transport trolley for wave soldering furnaces, SMT fixtures and line materials in EMS factories."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strap, single line",
+    "Loading Capacity": "30 KG",
+    "Max. Speed": "40 m/min",
+    "Stop Accuracy": "±5 cm",
+    "Size / Weight": "370×430×550 mm / 22 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

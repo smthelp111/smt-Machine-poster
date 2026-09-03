@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV40KG-710A",
+    "name": "Drum-Type Magnetic AGV Trolley",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV40KG-710A-Drum-Type-AGV-Trolley-40KG-Reel-Tape-Transport-SMT-EMS-Southern-Machinery.png",
+    "title": "SM-AGV40KG-710A Drum-Type Magnetic AGV Trolley | Southern Machinery",
+    "description": "Two-way backpack trolley with optional drum plate for moving reels, fixtures and line materials between SMT workstations. 40KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV40KG-710A",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV40KG-710A Drum-Type Magnetic AGV Trolley — Two-way backpack trolley with optional drum plate for moving reels, fixtures and line materials between SMT workstations."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strip, single line",
+    "Loading Capacity": "40 KG",
+    "Max. Speed": "40 m/min",
+    "Stop Accuracy": "3 cm",
+    "Size / Weight": "710×430×500 mm / 30 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV-810",
+    "name": "Automatic Contact Charging Pile",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV-810-Automatic-Charging-Pile-AGV-Docking-Station-25-2V-SMT-EMS-Southern-Machinery.png",
+    "title": "SM-AGV-810 Automatic Contact Charging Pile | Southern Machinery",
+    "description": "AGV docking charging station: the trolley drives to the pile and charges automatically when power is low, retracts when full. 2.4G Wireless Pairing. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV-810",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "AGV charging station",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV-810 Automatic Contact Charging Pile — AGV docking charging station: the trolley drives to the pile and charges automatically when power is low, retracts when full."
+  },
+  "key_specs": {
+    "Input / Output": "AC220V in / 25.2VDC",
+    "Charging Current": "2-5 A",
+    "Pairing": "Wireless RS232",
+    "Protections": "Overcharge + overload",
+    "Size / Weight": "380×300×365 mm / 10 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

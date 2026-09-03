@@ -1,0 +1,43 @@
+{
+  "source_pdf": "AGV Robot for SMT Catalog 2023.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SM-AGV-SMT-A",
+    "name": "SMT Magazine Rack Transport AGV",
+    "category": "AGV transport robot for SMT/DIP factories",
+    "target_audience": "EMS electronic manufacturing service factories, wave soldering & SMT lines"
+  },
+  "seo": {
+    "filename": "SM-AGV-SMT-A-Magazine-Rack-Transport-AGV-ESD-Rack-Loader-SMT-EMS-Southern-Machinery.png",
+    "title": "SM-AGV-SMT-A SMT Magazine Rack Transport AGV | Southern Machinery",
+    "description": "Purpose-built AGV that automatically loads and unloads ESD PCB magazine racks to and from SMT board loading machines. 50KG Payload Capacity. CE support, worldwide service. www.smthelp.com",
+    "keywords": [
+      "SM-AGV-SMT-A",
+      "AGV robot",
+      "AGV trolley",
+      "magnetic navigation AGV",
+      "SMT automation",
+      "wave soldering transport",
+      "EMS factory logistics",
+      "material handling robot",
+      "SM-AGV",
+      "Southern Machinery",
+      "SMThelp",
+      "auto transport trolley",
+      "RFID site selection"
+    ],
+    "og_image_alt": "SM-AGV-SMT-A SMT Magazine Rack Transport AGV — Purpose-built AGV that automatically loads and unloads ESD PCB magazine racks to and from SMT board loading machines."
+  },
+  "key_specs": {
+    "Navigation": "Magnetic strip, bi-direction",
+    "Loading Capacity": "50 KG",
+    "Max. Speed": "20-40 m/min",
+    "Stop Accuracy": "±5 cm",
+    "Size / Weight": "900×500×1380 mm / 80 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}
