@@ -166,3 +166,14 @@ SMT产品PPT转营销海报poster
 - **Meta Description**: Electromagnetic induction charging station — contact-free docking with launch and receiving plates, zero wear. 10-30mm Contact-Free Gap. CE support, worldwide service. www.smthelp.com
 - **Tags**: SM-AGV-820, AGV robot, AGV trolley, magnetic navigation AGV, SMT automation, wave soldering transport, EMS factory logistics, material handling robot, AGV charging station, Southern Machinery, SMThelp, auto transport trolley, RFID site selection
 - **Full metadata**: `SM-AGV-820.meta.json`
+
+## Reel Terminal Feeder Series
+
+### SRT7001 — Automated Reel Terminal Feeder
+
+- **File**: `SRT7001-Reel-Terminal-Feeder-Automated-Cutting-Feeding-0-8s-Plus-0-5mm-SMT-THT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Automated Reel Terminal Feeding for SMT Factories.pdf` (specs cross-checked with `SRT7001 Terminal Reel Feeder.pdf`)
+- **SEO Title**: SRT7001 Reel Terminal Feeder | Automated Cutting & Feeding 0.8s ±0.5mm | Southern Machinery
+- **Meta Description**: Automate reel terminal cutting & feeding with the SRT7001: 0.8 s per material, ±0.5 mm precision, PLC control with IO or self-control, shortage alarms. High compatibility with SMT/THT machines and robot arms. Built for EMS factories.
+- **Tags**: reel terminal feeder, terminal feeder, automated terminal feeding, reel terminal cutting, SMT feeder, THT automation, terminal insertion machine, SRT7001, smart factory feeder, EMS factory automation, Southern Machinery, SMThelp, odd-form feeding, component feeding system, labor saving SMT
+- **Full metadata**: `SRT7001-Reel-Terminal-Feeder-Automated-Cutting-Feeding-0-8s-Plus-0-5mm-SMT-THT-EMS-Southern-Machinery.meta.json`

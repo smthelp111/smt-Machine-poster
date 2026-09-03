@@ -1,0 +1,63 @@
+{
+  "source_pdf": "Automated Reel Terminal Feeding for SMT Factories.pdf",
+  "photo_source_pdf": "SRT7001 Terminal Reel Feeder.pdf",
+  "generated_at": "2026-09-03",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SRT7001",
+    "name": "Automated Reel Terminal Feeder",
+    "category": "Reel terminal auto cutting & feeding device for SMT/THT lines",
+    "target_audience": "EMS electronic manufacturing service factories automating terminal insertion"
+  },
+  "seo": {
+    "filename": "SRT7001-Reel-Terminal-Feeder-Automated-Cutting-Feeding-0-8s-Plus-0-5mm-SMT-THT-EMS-Southern-Machinery.png",
+    "title": "SRT7001 Reel Terminal Feeder | Automated Cutting & Feeding 0.8s ±0.5mm | Southern Machinery",
+    "description": "Automate reel terminal cutting & feeding with the SRT7001: 0.8 s per material, ±0.5 mm precision, PLC control with IO or self-control, shortage alarms. High compatibility with SMT/THT machines and robot arms. Built for EMS factories.",
+    "keywords": [
+      "reel terminal feeder",
+      "terminal feeder",
+      "automated terminal feeding",
+      "reel terminal cutting",
+      "SMT feeder",
+      "THT automation",
+      "terminal insertion machine",
+      "SRT7001",
+      "smart factory feeder",
+      "EMS factory automation",
+      "Southern Machinery",
+      "SMThelp",
+      "odd-form feeding",
+      "component feeding system",
+      "labor saving SMT"
+    ],
+    "og_image_alt": "Southern Machinery SRT7001 automated reel terminal feeder with 0.8s feeding speed and ±0.5mm precision for SMT/THT EMS factories"
+  },
+  "key_specs": {
+    "Feeding Speed": "0.8 s per material",
+    "Feeding Precision": "±0.5 mm",
+    "Material": "Reel terminal, tab 6.35 x 0.81 mm",
+    "Profile Height": "10.21 mm from PCB",
+    "Dimensions": "550 x 130 x 110 mm",
+    "Weight": "10 kg",
+    "Voltage": "24V, avg/peak 1.5/3 A",
+    "Air Pressure": "0.4-0.6 MPa",
+    "Control": "PLC, stepper 42-step motor max 600 rpm",
+    "Communication": "IO communication or self-control",
+    "Reliability": "500 continuous feeds / 48 h aging test",
+    "Shortage Detection": "Alarm after 3 consecutive no-material cycles"
+  },
+  "marketing_claims_from_source": [
+    "Up to 10x labor cost savings",
+    "ROI in 3-6 months (up to 1 year)",
+    "Boosts OEE and reduces Cost of Poor Quality",
+    "Traceability for automotive/medical/aerospace markets"
+  ],
+  "links": {
+    "video": "https://youtu.be/U7J6Y_KrgL8?si=vWZPKKNaUYC4s0L",
+    "catalog": "https://file.autoinsertion.com/public/Southern%20Machinery%20Product/Southern%20Machinery%20Customized%20Feeder%20Nozzle%20Catalog%20V03.pdf"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}
