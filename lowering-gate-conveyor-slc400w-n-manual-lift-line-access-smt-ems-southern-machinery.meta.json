@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SLC400W-N",
+    "name": "Lowering Gate Conveyor",
+    "family": "lowering",
+    "headline": "SLC400W-N: Lowering Gate Conveyor",
+    "intro": "The Southern Machinery SLC400W-N opens a manual lift gate across the line so operators can reach the rear of the conveyor when a passage way is required."
+  },
+  "seo": {
+    "filename": "lowering-gate-conveyor-slc400w-n-manual-lift-line-access-smt-ems-southern-machinery.png",
+    "title": "Lowering Gate Conveyor SLC400W-N | Line Access Gate | Southern Machinery",
+    "description": "Southern Machinery SLC400W-N lowering gate conveyor opens a manual lift passage across the SMT line, cylinder assisted lifting with pneumatic lock, PCB up to 445x400 mm.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SLC400W-N",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "gate conveyor",
+      "line access conveyor",
+      "lowering conveyor",
+      "lowering gate conveyor",
+      "smt",
+      "smt lowering gate conveyor",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "SLC400W-N",
+    "Max PCB Size": "50×50 – 445×400 mm",
+    "Machine Dimensions": "1300 × 570 × 1050 mm",
+    "Gate Type": "Manual lift, cylinder assisted",
+    "Weight": "180 KG",
+    "Power": "AC220V 50/60 Hz 1-phase"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "lowering-gate.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SBM460",
+    "name": "PCB Magazine Type Buffer",
+    "family": "buffer",
+    "headline": "SBM460: PCB Magazine Type Buffer",
+    "intro": "The Southern Machinery SBM460 buffers and recirculates PCB magazines between SMT and THT stations, holding NG boards or memory boards on a double-deck rack."
+  },
+  "seo": {
+    "filename": "pcb-magazine-type-buffer-sbm460-ng-board-memory-buffer-smt-ems-southern-machinery.png",
+    "title": "PCB Magazine Buffer SBM460 | NG Board Buffer | Southern Machinery",
+    "description": "Southern Machinery SBM460 magazine type PCB buffer holds 1 upper and 2 lower magazines for NG or memory boards, boards up to 530×460 mm, in SMT and THT lines.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SBM460",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "magazine buffer",
+      "ng board buffer",
+      "pcb buffer",
+      "pcb magazine type buffer",
+      "smt",
+      "smt pcb magazine buffer",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "SBM460",
+    "Max PCB Size": "50×50 – 530×460 mm",
+    "Machine Dimensions": "1750 × 1750 × 1205 mm",
+    "Rack Size": "535×530×563 mm",
+    "Weight": "340 KG",
+    "Power / Air": "AC110/220V 1-phase · Max 250VA"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "magazine-buffer.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

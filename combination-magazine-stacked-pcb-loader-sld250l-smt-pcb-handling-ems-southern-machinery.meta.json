@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SLD250L",
+    "name": "Combination Magazine & Stacked PCB Loader",
+    "family": "loader",
+    "headline": "SLD250L: Combination Magazine & Stacked PCB Loader",
+    "intro": "The Southern Machinery SLD250L loads bare boards from either magazines or stacks onto the line, ideal for double-sided assembly in SMT and THT EMS factories."
+  },
+  "seo": {
+    "filename": "combination-magazine-stacked-pcb-loader-sld250l-smt-pcb-handling-ems-southern-machinery.png",
+    "title": "PCB Magazine Loader SLD250L | Combination Stacked Loader | Southern Machinery",
+    "description": "Southern Machinery SLD250L combination magazine and stacked PCB loader handles boards up to 350×250 mm, with 15s vacuum loading for SMT and THT EMS lines.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SLD250L",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "combination magazine & stacked pcb loader",
+      "magazine loader",
+      "pcb handling",
+      "smt",
+      "smt pcb magazine loader",
+      "smthelp",
+      "stacked pcb loader"
+    ]
+  },
+  "key_specs": {
+    "Model": "SLD250L",
+    "Max PCB Size": "50×50 – 350×250 mm",
+    "Machine Dimensions": "1500 × 870 × 1200 mm",
+    "Rack Size": "355×320×563 mm",
+    "Weight": "250 KG",
+    "Power / Air": "AC220/110V 1-phase · 5 kgf/cm2"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "loader-stacked.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

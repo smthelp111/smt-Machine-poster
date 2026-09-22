@@ -1,0 +1,52 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "S-K390",
+    "name": "PCB Inverter",
+    "family": "inverter",
+    "headline": "S-K390: PCB Inverter",
+    "intro": "The Southern Machinery S-K390 inverts PCBs 180 degrees for double-sided processing, with a pneumatic stopper holding the board in position during the turn."
+  },
+  "seo": {
+    "filename": "pcb-inverter-sk390-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.png",
+    "title": "PCB Inverter S-K390 | 180° Board Turn ~5s | Southern Machinery",
+    "description": "Southern Machinery S-K390 PCB inverter turns boards 180 degrees for double sided processing with about 5 second cycle time, Omron PLC control, PCB from 0.6 mm thickness.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "S-K390",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "board flipper",
+      "double sided assembly",
+      "pcb inverter",
+      "smt",
+      "smt pcb inverter",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-K390",
+    "Max PCB Size": "50×50 – 390×530 mm",
+    "Machine Dimensions": "550 × 780 × 1200 mm",
+    "Cycle Time": "Approx. 5 seconds",
+    "Weight": "220 KG",
+    "Power": "230VAC 1ph 150VA max"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "inverter.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

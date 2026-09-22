@@ -1,0 +1,52 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "S-K460",
+    "name": "PCB Surface Cleaning Machine",
+    "family": "cleaner",
+    "headline": "S-K460: PCB Surface Cleaning Machine",
+    "intro": "The Southern Machinery S-K460 cleans the top surface of inline PCBs even when chip components are attached on the bottom side, with a standard antistatic ionizer bar."
+  },
+  "seo": {
+    "filename": "pcb-surface-cleaning-machine-sk460-inline-ionizer-dust-removal-smt-ems-southern-machinery.png",
+    "title": "PCB Surface Cleaning Machine S-K460 | Inline Dust Removal | Southern Machinery",
+    "description": "Southern Machinery S-K460 inline PCB surface cleaning machine removes dust with an antistatic ionizer bar, cleaning boards up to 460×530 mm even with components on the underside.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "S-K460",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "ionizer bar",
+      "pcb",
+      "pcb cleaner",
+      "pcb surface cleaning machine",
+      "smthelp",
+      "surface cleaning"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-K460",
+    "Max PCB Size": "50×50 – 460×530 mm",
+    "Machine Dimensions": "550 × 850 × 1200 mm",
+    "Cleaning": "Roller brush + ionizer bar",
+    "Weight": "260 KG",
+    "Power": "AC220V 50/60 Hz 1-phase"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "surface-cleaner.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

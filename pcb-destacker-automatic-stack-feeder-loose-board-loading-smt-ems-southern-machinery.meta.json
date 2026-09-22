@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "PCB Destacker",
+    "name": "Automatic Stack-Feeding Unit",
+    "family": "destacker",
+    "headline": "PCB Destacker: Automatic Stack-Feeding Unit",
+    "intro": "The Southern Machinery PCB destacker feeds loose stacked PCBs into the line one board at a time, automatically sensing stack height for uninterrupted loading."
+  },
+  "seo": {
+    "filename": "pcb-destacker-automatic-stack-feeder-loose-board-loading-smt-ems-southern-machinery.png",
+    "title": "PCB Destacker | 400-pc Stack Capacity | Southern Machinery",
+    "description": "Southern Machinery PCB destacker feeds loose stacked boards inline with automatic stack-height sensing, 400 pieces at 0.6 mm thickness, PCB up to 400x350 mm.",
+    "keywords": [
+      "EMS factory",
+      "PCB Destacker",
+      "PCB handling",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "automatic stack-feeding unit",
+      "board destacker",
+      "loose board feeder",
+      "pcb destacker",
+      "smt",
+      "smt pcb destacker",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "Standard (SMEMA)",
+    "PCB Size": "50×50 – 400×350 mm (460 mm optional)",
+    "Machine Dimensions": "728 × 700 × 1127 mm",
+    "Stack Capacity": "400 pcs @ 0.6 mm",
+    "Net / Shipping Weight": "160 kg / 200 kg",
+    "Power": "220 VAC 50/60 Hz · 150 VA max"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "destacker.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

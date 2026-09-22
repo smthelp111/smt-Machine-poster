@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SLD390",
+    "name": "PCB Magazine Loader",
+    "family": "magloader",
+    "headline": "SLD390: PCB Magazine Loader",
+    "intro": "The Southern Machinery SLD390 feeds PCB magazines into the SMT or THT line from the upper and lower plate positions with a soft-touch membrane control panel."
+  },
+  "seo": {
+    "filename": "pcb-magazine-loader-sld390-automatic-magazine-loader-smt-tht-ems-southern-machinery.png",
+    "title": "PCB Magazine Loader SLD390 | ~30s Changeover | Southern Machinery",
+    "description": "Southern Machinery SLD390 PCB magazine loader feeds SMT and THT lines with about 30 second tank replacement, boards up to 530×390 mm, 1 upper and 1 lower magazine.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SLD390",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "magazine loader",
+      "pcb loader",
+      "pcb magazine loader",
+      "smt",
+      "smt loader",
+      "smt pcb magazine loader",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "SLD390",
+    "Max PCB Size": "50×50 – 530×390 mm",
+    "Machine Dimensions": "1800 × 909 × 1250 mm",
+    "Rack Size": "535×460×563 mm",
+    "Weight": "240 KG",
+    "Power / Air": "AC110/220V 1-phase · Max 250VA"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "magazine-loader.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

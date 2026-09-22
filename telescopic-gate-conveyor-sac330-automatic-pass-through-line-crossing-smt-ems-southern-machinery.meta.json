@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SAC330",
+    "name": "Telescopic Gate Conveyor",
+    "family": "telescopic",
+    "headline": "SAC330: Telescopic Gate Conveyor",
+    "intro": "The Southern Machinery SAC330 is a fully automatic pass-through conveyor that lets people and vehicles cross the line without stopping production."
+  },
+  "seo": {
+    "filename": "telescopic-gate-conveyor-sac330-automatic-pass-through-line-crossing-smt-ems-southern-machinery.png",
+    "title": "Telescopic Gate Conveyor SAC330 | Pass-through in 6s | Southern Machinery",
+    "description": "Southern Machinery SAC330 telescopic gate conveyor lets people and vehicles cross the SMT line automatically, 850 mm telescopic length, 6 second open and retract cycle.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SAC330",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "gate conveyor",
+      "pass through conveyor",
+      "smt",
+      "smt telescopic gate conveyor",
+      "smthelp",
+      "telescopic conveyor",
+      "telescopic gate conveyor"
+    ]
+  },
+  "key_specs": {
+    "Model": "SAC330",
+    "Max PCB Size": "50×50 – 445×330 mm",
+    "Machine Dimensions": "1500 × 850 × 1300 mm",
+    "Telescopic Length": "850 mm",
+    "Weight": "250 KG",
+    "Power": "AC100/220/230V · Max 100W"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "telescopic-gate.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

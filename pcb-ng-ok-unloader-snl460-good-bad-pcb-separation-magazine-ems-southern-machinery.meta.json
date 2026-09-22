@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SNL460",
+    "name": "PCB NG/OK Unloader",
+    "family": "ngok",
+    "headline": "SNL460: PCB NG/OK Unloader",
+    "intro": "The Southern Machinery SNL460 separates good and bad PCBs after test and sends each stream into its own magazine rack under Omron PLC control."
+  },
+  "seo": {
+    "filename": "pcb-ng-ok-unloader-snl460-good-bad-pcb-separation-magazine-ems-southern-machinery.png",
+    "title": "PCB NG/OK Unloader SNL460 | Good/Bad Sorting | Southern Machinery",
+    "description": "Southern Machinery SNL460 PCB NG/OK unloader separates good and bad boards after test into magazine racks, boards up to 530×460 mm, Omron PLC and SMEMA compliant.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SMT peripheral equipment",
+      "SNL460",
+      "Southern Machinery",
+      "THT insertion line",
+      "ng ok unloader",
+      "pcb ng/ok unloader",
+      "pcb sorter",
+      "smt",
+      "smt pcb ng ok unloader",
+      "smthelp",
+      "test unloader"
+    ]
+  },
+  "key_specs": {
+    "Model": "SNL460",
+    "Max PCB Size": "50×50 – 530×460 mm",
+    "Machine Dimensions": "2160 × 1900 × 1250 mm",
+    "Rack Size": "535×530×563 mm",
+    "Weight": "400 KG",
+    "Power": "AC110/220V 1-phase"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "ng-ok-unloader.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SCN250",
+    "name": "90 Degree Turning Conveyor",
+    "family": "turning",
+    "headline": "SCN250: 90 Degree Turning Conveyor",
+    "intro": "The Southern Machinery SCN250 changes the flow direction of a PCB assembly line by 90 degrees, clockwise or counter-clockwise, without changing board orientation."
+  },
+  "seo": {
+    "filename": "90-degree-turning-conveyor-scn250-pcb-turn-conveyor-smt-line-ems-southern-machinery.png",
+    "title": "90° Turning Conveyor SCN250 | PCB Direction Change | Southern Machinery",
+    "description": "Southern Machinery SCN250 90 degree turning conveyor changes PCB flow direction clockwise or counter-clockwise, boards up to 330×250 mm, PLC controlled and SMEMA compliant.",
+    "keywords": [
+      "90 degree conveyor",
+      "90 degree turning conveyor",
+      "EMS factory",
+      "PCB handling",
+      "SCN250",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "pcb turn conveyor",
+      "smt",
+      "smt 90 degree turning conveyor",
+      "smthelp",
+      "turning conveyor"
+    ]
+  },
+  "key_specs": {
+    "Model": "SCN250",
+    "Max PCB Size": "50×50 – 330×250 mm",
+    "Machine Dimensions": "500 × 563 × 1200 mm",
+    "Turn Angle": "90 degree",
+    "Weight": "150 KG",
+    "Power": "AC220V 50/60 Hz 1-phase"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "turning-conveyor.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

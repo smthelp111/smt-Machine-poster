@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SUL250",
+    "name": "PCB Magazine Unloader",
+    "family": "magunloader",
+    "headline": "SUL250: PCB Magazine Unloader",
+    "intro": "The Southern Machinery SUL250 unloads finished PCBs from the line into upper and lower magazines, with adjustable pusher position for standard magazine racks."
+  },
+  "seo": {
+    "filename": "pcb-magazine-unloader-sul250-automatic-magazine-unloader-smt-tht-ems-southern-machinery.png",
+    "title": "PCB Magazine Unloader SUL250 | ~30s Tank Swap | Southern Machinery",
+    "description": "Southern Machinery SUL250 PCB magazine unloader collects boards from the line into upper and lower magazines, board sizes up to 330×250 mm, for SMT and THT EMS factories.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SMT peripheral equipment",
+      "SUL250",
+      "Southern Machinery",
+      "THT insertion line",
+      "magazine unloader",
+      "pcb magazine unloader",
+      "pcb unloader",
+      "smt",
+      "smt pcb magazine unloader",
+      "smt unloader",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "SUL250",
+    "Max PCB Size": "50×50 – 330×250 mm",
+    "Machine Dimensions": "1730 × 765 × 1250 mm",
+    "Rack Size": "355×320×563 mm",
+    "Weight": "160 KG",
+    "Power / Air": "AC110/220V 1-phase · Max 250VA"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "magazine-unloader.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

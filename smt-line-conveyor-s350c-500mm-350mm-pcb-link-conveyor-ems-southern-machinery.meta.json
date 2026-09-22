@@ -1,0 +1,53 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "S-350C",
+    "name": "SMT Line Conveyor",
+    "family": "conveyor",
+    "headline": "S-350C: SMT Line Conveyor",
+    "intro": "The Southern Machinery S-350C links SMT machines and board handling units with a 500 mm long, 350 mm wide edge-belt conveyor (no lighting)."
+  },
+  "seo": {
+    "filename": "smt-line-conveyor-s350c-500mm-350mm-pcb-link-conveyor-ems-southern-machinery.png",
+    "title": "SMT Line Conveyor S-350C | 500mm x 350mm | Southern Machinery",
+    "description": "Southern Machinery S-350C SMT link conveyor, 500 mm long and up to 350 mm PCB width, no-lighting version, to connect SMT machines and board handlers.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "S-350C",
+      "SMT peripheral equipment",
+      "Southern Machinery",
+      "THT insertion line",
+      "conveyor",
+      "line conveyor",
+      "pcb conveyor",
+      "smt",
+      "smt conveyor",
+      "smt line conveyor",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-350C",
+    "Conveyor Length": "500 mm",
+    "Max PCB Width": "350 mm",
+    "Lighting": "No",
+    "Transport Height": "900±20 mm",
+    "Belt / Power": "3 mm edge belt · AC220/110V"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "conveyor.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}

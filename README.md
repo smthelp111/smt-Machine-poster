@@ -457,3 +457,477 @@ SMT产品PPT转营销海报poster
 - **Full metadata**: `SMT-THT-Automation-Product-Portfolio-Feeder-Nozzle-Reel-Storage-A4-300dpi-Southern-Machinery.meta.json`
 
 > **Note on formats**: the AGV / loader / feeder entries above are landscape 16:9 (2K). The four entries in this section are portrait posters (infographic and print-master layouts) — `index.html` renders them with the `tall` card class so the full artwork is shown instead of being cropped to 16:9.
+
+## SMT Peripheral Equipment 2020 Series (47 models, from SMThelp Peripheral Equipment 2020.pdf)
+
+One poster per product model. Source: `/Volumes/.../Product Presentation/SMThelp Peripheral Equipment 2020.pdf` (20-page deck). Families covered: combination magazine/stacked PCB loader, magazine type buffer, SMT line conveyor (C/D/E lengths, with and without inspection lighting), PCB magazine loader, PCB magazine unloader, PCB destacker, PCB NG/OK unloader, lowering gate conveyor, 90-degree turning conveyor, PCB traverser, PCB surface cleaning machine, PCB inverter and telescopic gate conveyor.
+
+### Combination Magazine & Stacked PCB Loader (SLD250L)
+
+- **File**: `combination-magazine-stacked-pcb-loader-sld250l-smt-pcb-handling-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD250L | Combination Stacked Loader | Southern Machinery
+- **Meta Description**: Southern Machinery SLD250L combination magazine and stacked PCB loader handles boards up to 350×250 mm, with 15s vacuum loading for SMT and THT EMS lines.
+- **Key Specs**: Model: SLD250L · Max PCB Size: 50×50 – 350×250 mm · Machine Dimensions: 1500 × 870 × 1200 mm · Rack Size: 355×320×563 mm · Weight: 250 KG · Power / Air: AC220/110V 1-phase · 5 kgf/cm2
+- **Tags**: EMS factory, PCB handling, SLD250L, SMT peripheral equipment, Southern Machinery, THT insertion line, combination magazine & stacked pcb loader, magazine loader, pcb handling, smt, smt pcb magazine loader, smthelp, stacked pcb loader
+- **Full metadata**: `combination-magazine-stacked-pcb-loader-sld250l-smt-pcb-handling-ems-southern-machinery.meta.json`
+
+### Combination Magazine & Stacked PCB Loader (SLD330L)
+
+- **File**: `combination-magazine-stacked-pcb-loader-sld330l-smt-pcb-handling-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD330L | Combination Stacked Loader | Southern Machinery
+- **Meta Description**: Southern Machinery SLD330L combination magazine and stacked PCB loader handles boards up to 460×330 mm, with 15s vacuum loading for SMT and THT EMS lines.
+- **Key Specs**: Model: SLD330L · Max PCB Size: 50×50 – 460×330 mm · Machine Dimensions: 1860 × 950 × 1200 mm · Rack Size: 460×400×563 mm · Weight: 300 KG · Power / Air: AC220/110V 1-phase · 5 kgf/cm2
+- **Tags**: EMS factory, PCB handling, SLD330L, SMT peripheral equipment, Southern Machinery, THT insertion line, combination magazine & stacked pcb loader, magazine loader, pcb handling, smt, smt pcb magazine loader, smthelp, stacked pcb loader
+- **Full metadata**: `combination-magazine-stacked-pcb-loader-sld330l-smt-pcb-handling-ems-southern-machinery.meta.json`
+
+### Combination Magazine & Stacked PCB Loader (SLD390L)
+
+- **File**: `combination-magazine-stacked-pcb-loader-sld390l-smt-pcb-handling-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD390L | Combination Stacked Loader | Southern Machinery
+- **Meta Description**: Southern Machinery SLD390L combination magazine and stacked PCB loader handles boards up to 535×390 mm, with 15s vacuum loading for SMT and THT EMS lines.
+- **Key Specs**: Model: SLD390L · Max PCB Size: 50×50 – 535×390 mm · Machine Dimensions: 2100 × 1000 × 1200 mm · Rack Size: 535×460×563 mm · Weight: 340 KG · Power / Air: AC220/110V 1-phase · 5 kgf/cm2
+- **Tags**: EMS factory, PCB handling, SLD390L, SMT peripheral equipment, Southern Machinery, THT insertion line, combination magazine & stacked pcb loader, magazine loader, pcb handling, smt, smt pcb magazine loader, smthelp, stacked pcb loader
+- **Full metadata**: `combination-magazine-stacked-pcb-loader-sld390l-smt-pcb-handling-ems-southern-machinery.meta.json`
+
+### Combination Magazine & Stacked PCB Loader (SLD460L)
+
+- **File**: `combination-magazine-stacked-pcb-loader-sld460l-smt-pcb-handling-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD460L | Combination Stacked Loader | Southern Machinery
+- **Meta Description**: Southern Machinery SLD460L combination magazine and stacked PCB loader handles boards up to 535×460 mm, with 15s vacuum loading for SMT and THT EMS lines.
+- **Key Specs**: Model: SLD460L · Max PCB Size: 50×50 – 535×460 mm · Machine Dimensions: 2100 × 1080 × 1200 mm · Rack Size: 535×530×563 mm · Weight: 360 KG · Power / Air: AC220/110V 1-phase · 5 kgf/cm2
+- **Tags**: EMS factory, PCB handling, SLD460L, SMT peripheral equipment, Southern Machinery, THT insertion line, combination magazine & stacked pcb loader, magazine loader, pcb handling, smt, smt pcb magazine loader, smthelp, stacked pcb loader
+- **Full metadata**: `combination-magazine-stacked-pcb-loader-sld460l-smt-pcb-handling-ems-southern-machinery.meta.json`
+
+### PCB Magazine Type Buffer (SBM250)
+
+- **File**: `pcb-magazine-type-buffer-sbm250-ng-board-memory-buffer-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Buffer SBM250 | NG Board Buffer | Southern Machinery
+- **Meta Description**: Southern Machinery SBM250 magazine type PCB buffer holds 1 upper and 2 lower magazines for NG or memory boards, boards up to 330×250 mm, in SMT and THT lines.
+- **Key Specs**: Model: SBM250 · Max PCB Size: 50×50 – 330×250 mm · Machine Dimensions: 1150 × 1150 × 1205 mm · Rack Size: 355×320×563 mm · Weight: 160 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SBM250, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine buffer, ng board buffer, pcb buffer, pcb magazine type buffer, smt, smt pcb magazine buffer, smthelp
+- **Full metadata**: `pcb-magazine-type-buffer-sbm250-ng-board-memory-buffer-smt-ems-southern-machinery.meta.json`
+
+### PCB Magazine Type Buffer (SBM330)
+
+- **File**: `pcb-magazine-type-buffer-sbm330-ng-board-memory-buffer-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Buffer SBM330 | NG Board Buffer | Southern Machinery
+- **Meta Description**: Southern Machinery SBM330 magazine type PCB buffer holds 1 upper and 2 lower magazines for NG or memory boards, boards up to 445×330 mm, in SMT and THT lines.
+- **Key Specs**: Model: SBM330 · Max PCB Size: 50×50 – 445×330 mm · Machine Dimensions: 1350 × 1350 × 1205 mm · Rack Size: 460×400×563 mm · Weight: 220 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SBM330, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine buffer, ng board buffer, pcb buffer, pcb magazine type buffer, smt, smt pcb magazine buffer, smthelp
+- **Full metadata**: `pcb-magazine-type-buffer-sbm330-ng-board-memory-buffer-smt-ems-southern-machinery.meta.json`
+
+### PCB Magazine Type Buffer (SBM390)
+
+- **File**: `pcb-magazine-type-buffer-sbm390-ng-board-memory-buffer-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Buffer SBM390 | NG Board Buffer | Southern Machinery
+- **Meta Description**: Southern Machinery SBM390 magazine type PCB buffer holds 1 upper and 2 lower magazines for NG or memory boards, boards up to 530×390 mm, in SMT and THT lines.
+- **Key Specs**: Model: SBM390 · Max PCB Size: 50×50 – 530×390 mm · Machine Dimensions: 1550 × 1550 × 1205 mm · Rack Size: 535×460×563 mm · Weight: 280 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SBM390, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine buffer, ng board buffer, pcb buffer, pcb magazine type buffer, smt, smt pcb magazine buffer, smthelp
+- **Full metadata**: `pcb-magazine-type-buffer-sbm390-ng-board-memory-buffer-smt-ems-southern-machinery.meta.json`
+
+### PCB Magazine Type Buffer (SBM460)
+
+- **File**: `pcb-magazine-type-buffer-sbm460-ng-board-memory-buffer-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Buffer SBM460 | NG Board Buffer | Southern Machinery
+- **Meta Description**: Southern Machinery SBM460 magazine type PCB buffer holds 1 upper and 2 lower magazines for NG or memory boards, boards up to 530×460 mm, in SMT and THT lines.
+- **Key Specs**: Model: SBM460 · Max PCB Size: 50×50 – 530×460 mm · Machine Dimensions: 1750 × 1750 × 1205 mm · Rack Size: 535×530×563 mm · Weight: 340 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SBM460, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine buffer, ng board buffer, pcb buffer, pcb magazine type buffer, smt, smt pcb magazine buffer, smthelp
+- **Full metadata**: `pcb-magazine-type-buffer-sbm460-ng-board-memory-buffer-smt-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor (S-350C)
+
+- **File**: `smt-line-conveyor-s350c-500mm-350mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-350C | 500mm x 350mm | Southern Machinery
+- **Meta Description**: Southern Machinery S-350C SMT link conveyor, 500 mm long and up to 350 mm PCB width, no-lighting version, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-350C · Conveyor Length: 500 mm · Max PCB Width: 350 mm · Lighting: No · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-350C, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smthelp
+- **Full metadata**: `smt-line-conveyor-s350c-500mm-350mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor (S-460C)
+
+- **File**: `smt-line-conveyor-s460c-500mm-460mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-460C | 500mm x 460mm | Southern Machinery
+- **Meta Description**: Southern Machinery S-460C SMT link conveyor, 500 mm long and up to 460 mm PCB width, no-lighting version, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-460C · Conveyor Length: 500 mm · Max PCB Width: 460 mm · Lighting: No · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-460C, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smthelp
+- **Full metadata**: `smt-line-conveyor-s460c-500mm-460mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor With Inspection Lighting (S-350C-L)
+
+- **File**: `smt-line-conveyor-s350cl-with-lighting-500mm-350mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-350C-L | 500mm x 350mm | With Lighting | Southern Machinery
+- **Meta Description**: Southern Machinery S-350C-L SMT link conveyor, 500 mm long and up to 350 mm PCB width, with LED inspection lighting, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-350C-L · Conveyor Length: 500 mm · Max PCB Width: 350 mm · Lighting: Yes · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-350C-L, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smt line conveyor with inspection lighting, smthelp
+- **Full metadata**: `smt-line-conveyor-s350cl-with-lighting-500mm-350mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor With Inspection Lighting (S-460C-L)
+
+- **File**: `smt-line-conveyor-s460cl-with-lighting-500mm-460mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-460C-L | 500mm x 460mm | With Lighting | Southern Machinery
+- **Meta Description**: Southern Machinery S-460C-L SMT link conveyor, 500 mm long and up to 460 mm PCB width, with LED inspection lighting, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-460C-L · Conveyor Length: 500 mm · Max PCB Width: 460 mm · Lighting: Yes · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-460C-L, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smt line conveyor with inspection lighting, smthelp
+- **Full metadata**: `smt-line-conveyor-s460cl-with-lighting-500mm-460mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor (S-350D)
+
+- **File**: `smt-line-conveyor-s350d-1000mm-350mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-350D | 1000mm x 350mm | Southern Machinery
+- **Meta Description**: Southern Machinery S-350D SMT link conveyor, 1000 mm long and up to 350 mm PCB width, no-lighting version, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-350D · Conveyor Length: 1000 mm · Max PCB Width: 350 mm · Lighting: No · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-350D, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smthelp
+- **Full metadata**: `smt-line-conveyor-s350d-1000mm-350mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor (S-460D)
+
+- **File**: `smt-line-conveyor-s460d-1000mm-460mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-460D | 1000mm x 460mm | Southern Machinery
+- **Meta Description**: Southern Machinery S-460D SMT link conveyor, 1000 mm long and up to 460 mm PCB width, no-lighting version, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-460D · Conveyor Length: 1000 mm · Max PCB Width: 460 mm · Lighting: No · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-460D, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smthelp
+- **Full metadata**: `smt-line-conveyor-s460d-1000mm-460mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor With Inspection Lighting (S-350D-L)
+
+- **File**: `smt-line-conveyor-s350dl-with-lighting-1000mm-350mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-350D-L | 1000mm x 350mm | With Lighting | Southern Machinery
+- **Meta Description**: Southern Machinery S-350D-L SMT link conveyor, 1000 mm long and up to 350 mm PCB width, with LED inspection lighting, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-350D-L · Conveyor Length: 1000 mm · Max PCB Width: 350 mm · Lighting: Yes · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-350D-L, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smt line conveyor with inspection lighting, smthelp
+- **Full metadata**: `smt-line-conveyor-s350dl-with-lighting-1000mm-350mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor With Inspection Lighting (S-460D-L)
+
+- **File**: `smt-line-conveyor-s460dl-with-lighting-1000mm-460mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-460D-L | 1000mm x 460mm | With Lighting | Southern Machinery
+- **Meta Description**: Southern Machinery S-460D-L SMT link conveyor, 1000 mm long and up to 460 mm PCB width, with LED inspection lighting, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-460D-L · Conveyor Length: 1000 mm · Max PCB Width: 460 mm · Lighting: Yes · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-460D-L, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smt line conveyor with inspection lighting, smthelp
+- **Full metadata**: `smt-line-conveyor-s460dl-with-lighting-1000mm-460mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor (S-350E)
+
+- **File**: `smt-line-conveyor-s350e-1500mm-350mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-350E | 1500mm x 350mm | Southern Machinery
+- **Meta Description**: Southern Machinery S-350E SMT link conveyor, 1500 mm long and up to 350 mm PCB width, no-lighting version, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-350E · Conveyor Length: 1500 mm · Max PCB Width: 350 mm · Lighting: No · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-350E, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smthelp
+- **Full metadata**: `smt-line-conveyor-s350e-1500mm-350mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor (S-460E)
+
+- **File**: `smt-line-conveyor-s460e-1500mm-460mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-460E | 1500mm x 460mm | Southern Machinery
+- **Meta Description**: Southern Machinery S-460E SMT link conveyor, 1500 mm long and up to 460 mm PCB width, no-lighting version, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-460E · Conveyor Length: 1500 mm · Max PCB Width: 460 mm · Lighting: No · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-460E, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smthelp
+- **Full metadata**: `smt-line-conveyor-s460e-1500mm-460mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor With Inspection Lighting (S-350E-L)
+
+- **File**: `smt-line-conveyor-s350el-with-lighting-1500mm-350mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-350E-L | 1500mm x 350mm | With Lighting | Southern Machinery
+- **Meta Description**: Southern Machinery S-350E-L SMT link conveyor, 1500 mm long and up to 350 mm PCB width, with LED inspection lighting, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-350E-L · Conveyor Length: 1500 mm · Max PCB Width: 350 mm · Lighting: Yes · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-350E-L, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smt line conveyor with inspection lighting, smthelp
+- **Full metadata**: `smt-line-conveyor-s350el-with-lighting-1500mm-350mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### SMT Line Conveyor With Inspection Lighting (S-460E-L)
+
+- **File**: `smt-line-conveyor-s460el-with-lighting-1500mm-460mm-pcb-link-conveyor-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: SMT Line Conveyor S-460E-L | 1500mm x 460mm | With Lighting | Southern Machinery
+- **Meta Description**: Southern Machinery S-460E-L SMT link conveyor, 1500 mm long and up to 460 mm PCB width, with LED inspection lighting, to connect SMT machines and board handlers.
+- **Key Specs**: Model: S-460E-L · Conveyor Length: 1500 mm · Max PCB Width: 460 mm · Lighting: Yes · Transport Height: 900±20 mm · Belt / Power: 3 mm edge belt · AC220/110V
+- **Tags**: EMS factory, PCB handling, S-460E-L, SMT peripheral equipment, Southern Machinery, THT insertion line, conveyor, line conveyor, pcb conveyor, smt, smt conveyor, smt line conveyor, smt line conveyor with inspection lighting, smthelp
+- **Full metadata**: `smt-line-conveyor-s460el-with-lighting-1500mm-460mm-pcb-link-conveyor-ems-southern-machinery.meta.json`
+
+### PCB Magazine Loader (SLD250)
+
+- **File**: `pcb-magazine-loader-sld250-automatic-magazine-loader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD250 | ~30s Changeover | Southern Machinery
+- **Meta Description**: Southern Machinery SLD250 PCB magazine loader feeds SMT and THT lines with about 30 second tank replacement, boards up to 330×250 mm, 1 upper and 1 lower magazine.
+- **Key Specs**: Model: SLD250 · Max PCB Size: 50×50 – 330×250 mm · Machine Dimensions: 1330 × 765 × 1250 mm · Rack Size: 355×320×563 mm · Weight: 140 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SLD250, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine loader, pcb loader, pcb magazine loader, smt, smt loader, smt pcb magazine loader, smthelp
+- **Full metadata**: `pcb-magazine-loader-sld250-automatic-magazine-loader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Loader (SLD330)
+
+- **File**: `pcb-magazine-loader-sld330-automatic-magazine-loader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD330 | ~30s Changeover | Southern Machinery
+- **Meta Description**: Southern Machinery SLD330 PCB magazine loader feeds SMT and THT lines with about 30 second tank replacement, boards up to 445×330 mm, 1 upper and 1 lower magazine.
+- **Key Specs**: Model: SLD330 · Max PCB Size: 50×50 – 445×330 mm · Machine Dimensions: 1650 × 845 × 1250 mm · Rack Size: 460×400×563 mm · Weight: 200 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SLD330, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine loader, pcb loader, pcb magazine loader, smt, smt loader, smt pcb magazine loader, smthelp
+- **Full metadata**: `pcb-magazine-loader-sld330-automatic-magazine-loader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Loader (SLD390)
+
+- **File**: `pcb-magazine-loader-sld390-automatic-magazine-loader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD390 | ~30s Changeover | Southern Machinery
+- **Meta Description**: Southern Machinery SLD390 PCB magazine loader feeds SMT and THT lines with about 30 second tank replacement, boards up to 530×390 mm, 1 upper and 1 lower magazine.
+- **Key Specs**: Model: SLD390 · Max PCB Size: 50×50 – 530×390 mm · Machine Dimensions: 1800 × 909 × 1250 mm · Rack Size: 535×460×563 mm · Weight: 240 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SLD390, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine loader, pcb loader, pcb magazine loader, smt, smt loader, smt pcb magazine loader, smthelp
+- **Full metadata**: `pcb-magazine-loader-sld390-automatic-magazine-loader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Loader (SLD460)
+
+- **File**: `pcb-magazine-loader-sld460-automatic-magazine-loader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Loader SLD460 | ~30s Changeover | Southern Machinery
+- **Meta Description**: Southern Machinery SLD460 PCB magazine loader feeds SMT and THT lines with about 30 second tank replacement, boards up to 530×460 mm, 1 upper and 1 lower magazine.
+- **Key Specs**: Model: SLD460 · Max PCB Size: 50×50 – 530×460 mm · Machine Dimensions: 1800 × 970 × 1250 mm · Rack Size: 535×530×563 mm · Weight: 300 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SLD460, SMT peripheral equipment, Southern Machinery, THT insertion line, magazine loader, pcb loader, pcb magazine loader, smt, smt loader, smt pcb magazine loader, smthelp
+- **Full metadata**: `pcb-magazine-loader-sld460-automatic-magazine-loader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Unloader (SUL250)
+
+- **File**: `pcb-magazine-unloader-sul250-automatic-magazine-unloader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Unloader SUL250 | ~30s Tank Swap | Southern Machinery
+- **Meta Description**: Southern Machinery SUL250 PCB magazine unloader collects boards from the line into upper and lower magazines, board sizes up to 330×250 mm, for SMT and THT EMS factories.
+- **Key Specs**: Model: SUL250 · Max PCB Size: 50×50 – 330×250 mm · Machine Dimensions: 1730 × 765 × 1250 mm · Rack Size: 355×320×563 mm · Weight: 160 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SUL250, Southern Machinery, THT insertion line, magazine unloader, pcb magazine unloader, pcb unloader, smt, smt pcb magazine unloader, smt unloader, smthelp
+- **Full metadata**: `pcb-magazine-unloader-sul250-automatic-magazine-unloader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Unloader (SUL330)
+
+- **File**: `pcb-magazine-unloader-sul330-automatic-magazine-unloader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Unloader SUL330 | ~30s Tank Swap | Southern Machinery
+- **Meta Description**: Southern Machinery SUL330 PCB magazine unloader collects boards from the line into upper and lower magazines, board sizes up to 445×330 mm, for SMT and THT EMS factories.
+- **Key Specs**: Model: SUL330 · Max PCB Size: 50×50 – 445×330 mm · Machine Dimensions: 2065 × 845 × 1250 mm · Rack Size: 460×400×563 mm · Weight: 220 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SUL330, Southern Machinery, THT insertion line, magazine unloader, pcb magazine unloader, pcb unloader, smt, smt pcb magazine unloader, smt unloader, smthelp
+- **Full metadata**: `pcb-magazine-unloader-sul330-automatic-magazine-unloader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Unloader (SUL390)
+
+- **File**: `pcb-magazine-unloader-sul390-automatic-magazine-unloader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Unloader SUL390 | ~30s Tank Swap | Southern Machinery
+- **Meta Description**: Southern Machinery SUL390 PCB magazine unloader collects boards from the line into upper and lower magazines, board sizes up to 530×390 mm, for SMT and THT EMS factories.
+- **Key Specs**: Model: SUL390 · Max PCB Size: 50×50 – 530×390 mm · Machine Dimensions: 2660 × 909 × 1250 mm · Rack Size: 535×460×563 mm · Weight: 280 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SUL390, Southern Machinery, THT insertion line, magazine unloader, pcb magazine unloader, pcb unloader, smt, smt pcb magazine unloader, smt unloader, smthelp
+- **Full metadata**: `pcb-magazine-unloader-sul390-automatic-magazine-unloader-smt-tht-ems-southern-machinery.meta.json`
+
+### PCB Magazine Unloader (SUL460)
+
+- **File**: `pcb-magazine-unloader-sul460-automatic-magazine-unloader-smt-tht-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Magazine Unloader SUL460 | ~30s Tank Swap | Southern Machinery
+- **Meta Description**: Southern Machinery SUL460 PCB magazine unloader collects boards from the line into upper and lower magazines, board sizes up to 530×460 mm, for SMT and THT EMS factories.
+- **Key Specs**: Model: SUL460 · Max PCB Size: 50×50 – 530×460 mm · Machine Dimensions: 2660 × 970 × 1250 mm · Rack Size: 535×530×563 mm · Weight: 320 KG · Power / Air: AC110/220V 1-phase · Max 250VA
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SUL460, Southern Machinery, THT insertion line, magazine unloader, pcb magazine unloader, pcb unloader, smt, smt pcb magazine unloader, smt unloader, smthelp
+- **Full metadata**: `pcb-magazine-unloader-sul460-automatic-magazine-unloader-smt-tht-ems-southern-machinery.meta.json`
+
+### Automatic Stack-Feeding Unit (PCB Destacker)
+
+- **File**: `pcb-destacker-automatic-stack-feeder-loose-board-loading-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Destacker | 400-pc Stack Capacity | Southern Machinery
+- **Meta Description**: Southern Machinery PCB destacker feeds loose stacked boards inline with automatic stack-height sensing, 400 pieces at 0.6 mm thickness, PCB up to 400x350 mm.
+- **Key Specs**: Model: Standard (SMEMA) · PCB Size: 50×50 – 400×350 mm (460 mm optional) · Machine Dimensions: 728 × 700 × 1127 mm · Stack Capacity: 400 pcs @ 0.6 mm · Net / Shipping Weight: 160 kg / 200 kg · Power: 220 VAC 50/60 Hz · 150 VA max
+- **Tags**: EMS factory, PCB Destacker, PCB handling, SMT peripheral equipment, Southern Machinery, THT insertion line, automatic stack-feeding unit, board destacker, loose board feeder, pcb destacker, smt, smt pcb destacker, smthelp
+- **Full metadata**: `pcb-destacker-automatic-stack-feeder-loose-board-loading-smt-ems-southern-machinery.meta.json`
+
+### PCB NG/OK Unloader (SNL250)
+
+- **File**: `pcb-ng-ok-unloader-snl250-good-bad-pcb-separation-magazine-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB NG/OK Unloader SNL250 | Good/Bad Sorting | Southern Machinery
+- **Meta Description**: Southern Machinery SNL250 PCB NG/OK unloader separates good and bad boards after test into magazine racks, boards up to 330×250 mm, Omron PLC and SMEMA compliant.
+- **Key Specs**: Model: SNL250 · Max PCB Size: 50×50 – 330×250 mm · Machine Dimensions: 1510 × 1530 × 1250 mm · Rack Size: 355×320×563 mm · Weight: 310 KG · Power: AC110/220V 1-phase
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SNL250, Southern Machinery, THT insertion line, ng ok unloader, pcb ng/ok unloader, pcb sorter, smt, smt pcb ng ok unloader, smthelp, test unloader
+- **Full metadata**: `pcb-ng-ok-unloader-snl250-good-bad-pcb-separation-magazine-ems-southern-machinery.meta.json`
+
+### PCB NG/OK Unloader (SNL330)
+
+- **File**: `pcb-ng-ok-unloader-snl330-good-bad-pcb-separation-magazine-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB NG/OK Unloader SNL330 | Good/Bad Sorting | Southern Machinery
+- **Meta Description**: Southern Machinery SNL330 PCB NG/OK unloader separates good and bad boards after test into magazine racks, boards up to 445×330 mm, Omron PLC and SMEMA compliant.
+- **Key Specs**: Model: SNL330 · Max PCB Size: 50×50 – 445×330 mm · Machine Dimensions: 1910 × 1630 × 1250 mm · Rack Size: 460×400×563 mm · Weight: 340 KG · Power: AC110/220V 1-phase
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SNL330, Southern Machinery, THT insertion line, ng ok unloader, pcb ng/ok unloader, pcb sorter, smt, smt pcb ng ok unloader, smthelp, test unloader
+- **Full metadata**: `pcb-ng-ok-unloader-snl330-good-bad-pcb-separation-magazine-ems-southern-machinery.meta.json`
+
+### PCB NG/OK Unloader (SNL390)
+
+- **File**: `pcb-ng-ok-unloader-snl390-good-bad-pcb-separation-magazine-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB NG/OK Unloader SNL390 | Good/Bad Sorting | Southern Machinery
+- **Meta Description**: Southern Machinery SNL390 PCB NG/OK unloader separates good and bad boards after test into magazine racks, boards up to 530×390 mm, Omron PLC and SMEMA compliant.
+- **Key Specs**: Model: SNL390 · Max PCB Size: 50×50 – 530×390 mm · Machine Dimensions: 2160 × 1760 × 1250 mm · Rack Size: 535×460×563 mm · Weight: 370 KG · Power: AC110/220V 1-phase
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SNL390, Southern Machinery, THT insertion line, ng ok unloader, pcb ng/ok unloader, pcb sorter, smt, smt pcb ng ok unloader, smthelp, test unloader
+- **Full metadata**: `pcb-ng-ok-unloader-snl390-good-bad-pcb-separation-magazine-ems-southern-machinery.meta.json`
+
+### PCB NG/OK Unloader (SNL460)
+
+- **File**: `pcb-ng-ok-unloader-snl460-good-bad-pcb-separation-magazine-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB NG/OK Unloader SNL460 | Good/Bad Sorting | Southern Machinery
+- **Meta Description**: Southern Machinery SNL460 PCB NG/OK unloader separates good and bad boards after test into magazine racks, boards up to 530×460 mm, Omron PLC and SMEMA compliant.
+- **Key Specs**: Model: SNL460 · Max PCB Size: 50×50 – 530×460 mm · Machine Dimensions: 2160 × 1900 × 1250 mm · Rack Size: 535×530×563 mm · Weight: 400 KG · Power: AC110/220V 1-phase
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SNL460, Southern Machinery, THT insertion line, ng ok unloader, pcb ng/ok unloader, pcb sorter, smt, smt pcb ng ok unloader, smthelp, test unloader
+- **Full metadata**: `pcb-ng-ok-unloader-snl460-good-bad-pcb-separation-magazine-ems-southern-machinery.meta.json`
+
+### Lowering Gate Conveyor (SLC400W-N)
+
+- **File**: `lowering-gate-conveyor-slc400w-n-manual-lift-line-access-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: Lowering Gate Conveyor SLC400W-N | Line Access Gate | Southern Machinery
+- **Meta Description**: Southern Machinery SLC400W-N lowering gate conveyor opens a manual lift passage across the SMT line, cylinder assisted lifting with pneumatic lock, PCB up to 445x400 mm.
+- **Key Specs**: Model: SLC400W-N · Max PCB Size: 50×50 – 445×400 mm · Machine Dimensions: 1300 × 570 × 1050 mm · Gate Type: Manual lift, cylinder assisted · Weight: 180 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, SLC400W-N, SMT peripheral equipment, Southern Machinery, THT insertion line, gate conveyor, line access conveyor, lowering conveyor, lowering gate conveyor, smt, smt lowering gate conveyor, smthelp
+- **Full metadata**: `lowering-gate-conveyor-slc400w-n-manual-lift-line-access-smt-ems-southern-machinery.meta.json`
+
+### 90 Degree Turning Conveyor (SCN250)
+
+- **File**: `90-degree-turning-conveyor-scn250-pcb-turn-conveyor-smt-line-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: 90° Turning Conveyor SCN250 | PCB Direction Change | Southern Machinery
+- **Meta Description**: Southern Machinery SCN250 90 degree turning conveyor changes PCB flow direction clockwise or counter-clockwise, boards up to 330×250 mm, PLC controlled and SMEMA compliant.
+- **Key Specs**: Model: SCN250 · Max PCB Size: 50×50 – 330×250 mm · Machine Dimensions: 500 × 563 × 1200 mm · Turn Angle: 90 degree · Weight: 150 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: 90 degree conveyor, 90 degree turning conveyor, EMS factory, PCB handling, SCN250, SMT peripheral equipment, Southern Machinery, THT insertion line, pcb turn conveyor, smt, smt 90 degree turning conveyor, smthelp, turning conveyor
+- **Full metadata**: `90-degree-turning-conveyor-scn250-pcb-turn-conveyor-smt-line-ems-southern-machinery.meta.json`
+
+### 90 Degree Turning Conveyor (SCN330)
+
+- **File**: `90-degree-turning-conveyor-scn330-pcb-turn-conveyor-smt-line-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: 90° Turning Conveyor SCN330 | PCB Direction Change | Southern Machinery
+- **Meta Description**: Southern Machinery SCN330 90 degree turning conveyor changes PCB flow direction clockwise or counter-clockwise, boards up to 400×330 mm, PLC controlled and SMEMA compliant.
+- **Key Specs**: Model: SCN330 · Max PCB Size: 50×50 – 400×330 mm · Machine Dimensions: 580 × 643 × 1200 mm · Turn Angle: 90 degree · Weight: 170 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: 90 degree conveyor, 90 degree turning conveyor, EMS factory, PCB handling, SCN330, SMT peripheral equipment, Southern Machinery, THT insertion line, pcb turn conveyor, smt, smt 90 degree turning conveyor, smthelp, turning conveyor
+- **Full metadata**: `90-degree-turning-conveyor-scn330-pcb-turn-conveyor-smt-line-ems-southern-machinery.meta.json`
+
+### PCB Traverser (SPD330)
+
+- **File**: `pcb-traverser-spd330-one-line-two-line-transfer-board-changer-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Traverser SPD330 | 1-to-2 Line Transfer | Southern Machinery
+- **Meta Description**: Southern Machinery SPD330 PCB traverser moves boards between one and two lines without changing board orientation, PCB sizes from 50x50 up to 330×250 mm.
+- **Key Specs**: Model: SPD330 · Max PCB Size: 50×50 – 330×250 mm · Machine Dimensions: 500 × 750 × 1050 mm · Function: 1-to-2 / 2-to-1 line transfer · Weight: 140 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SPD330, Southern Machinery, THT insertion line, board transfer unit, line changer, pcb traverser, smt, smt pcb traverser, smthelp
+- **Full metadata**: `pcb-traverser-spd330-one-line-two-line-transfer-board-changer-smt-ems-southern-machinery.meta.json`
+
+### PCB Traverser (SPD460)
+
+- **File**: `pcb-traverser-spd460-one-line-two-line-transfer-board-changer-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Traverser SPD460 | 1-to-2 Line Transfer | Southern Machinery
+- **Meta Description**: Southern Machinery SPD460 PCB traverser moves boards between one and two lines without changing board orientation, PCB sizes from 50x50 up to 457×390 mm.
+- **Key Specs**: Model: SPD460 · Max PCB Size: 50×50 – 457×390 mm · Machine Dimensions: 600 × 880 × 1050 mm · Function: 1-to-2 / 2-to-1 line transfer · Weight: 220 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, SMT peripheral equipment, SPD460, Southern Machinery, THT insertion line, board transfer unit, line changer, pcb traverser, smt, smt pcb traverser, smthelp
+- **Full metadata**: `pcb-traverser-spd460-one-line-two-line-transfer-board-changer-smt-ems-southern-machinery.meta.json`
+
+### PCB Surface Cleaning Machine (S-K250)
+
+- **File**: `pcb-surface-cleaning-machine-sk250-inline-ionizer-dust-removal-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Surface Cleaning Machine S-K250 | Inline Dust Removal | Southern Machinery
+- **Meta Description**: Southern Machinery S-K250 inline PCB surface cleaning machine removes dust with an antistatic ionizer bar, cleaning boards up to 250×330 mm even with components on the underside.
+- **Key Specs**: Model: S-K250 · Max PCB Size: 50×50 – 250×330 mm · Machine Dimensions: 550 × 650 × 1350 mm · Cleaning: Roller brush + ionizer bar · Weight: 170 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, S-K250, SMT peripheral equipment, Southern Machinery, THT insertion line, ionizer bar, pcb, pcb cleaner, pcb surface cleaning machine, smthelp, surface cleaning
+- **Full metadata**: `pcb-surface-cleaning-machine-sk250-inline-ionizer-dust-removal-smt-ems-southern-machinery.meta.json`
+
+### PCB Surface Cleaning Machine (S-K330)
+
+- **File**: `pcb-surface-cleaning-machine-sk330-inline-ionizer-dust-removal-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Surface Cleaning Machine S-K330 | Inline Dust Removal | Southern Machinery
+- **Meta Description**: Southern Machinery S-K330 inline PCB surface cleaning machine removes dust with an antistatic ionizer bar, cleaning boards up to 330×450 mm even with components on the underside.
+- **Key Specs**: Model: S-K330 · Max PCB Size: 50×50 – 330×450 mm · Machine Dimensions: 550 × 680 × 1200 mm · Cleaning: Roller brush + ionizer bar · Weight: 185 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, S-K330, SMT peripheral equipment, Southern Machinery, THT insertion line, ionizer bar, pcb, pcb cleaner, pcb surface cleaning machine, smthelp, surface cleaning
+- **Full metadata**: `pcb-surface-cleaning-machine-sk330-inline-ionizer-dust-removal-smt-ems-southern-machinery.meta.json`
+
+### PCB Surface Cleaning Machine (S-K390)
+
+- **File**: `pcb-surface-cleaning-machine-sk390-inline-ionizer-dust-removal-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Surface Cleaning Machine S-K390 | Inline Dust Removal | Southern Machinery
+- **Meta Description**: Southern Machinery S-K390 inline PCB surface cleaning machine removes dust with an antistatic ionizer bar, cleaning boards up to 390×530 mm even with components on the underside.
+- **Key Specs**: Model: S-K390 · Max PCB Size: 50×50 – 390×530 mm · Machine Dimensions: 550 × 780 × 1200 mm · Cleaning: Roller brush + ionizer bar · Weight: 220 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, S-K390, SMT peripheral equipment, Southern Machinery, THT insertion line, ionizer bar, pcb, pcb cleaner, pcb surface cleaning machine, smthelp, surface cleaning
+- **Full metadata**: `pcb-surface-cleaning-machine-sk390-inline-ionizer-dust-removal-smt-ems-southern-machinery.meta.json`
+
+### PCB Surface Cleaning Machine (S-K460)
+
+- **File**: `pcb-surface-cleaning-machine-sk460-inline-ionizer-dust-removal-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Surface Cleaning Machine S-K460 | Inline Dust Removal | Southern Machinery
+- **Meta Description**: Southern Machinery S-K460 inline PCB surface cleaning machine removes dust with an antistatic ionizer bar, cleaning boards up to 460×530 mm even with components on the underside.
+- **Key Specs**: Model: S-K460 · Max PCB Size: 50×50 – 460×530 mm · Machine Dimensions: 550 × 850 × 1200 mm · Cleaning: Roller brush + ionizer bar · Weight: 260 KG · Power: AC220V 50/60 Hz 1-phase
+- **Tags**: EMS factory, PCB handling, S-K460, SMT peripheral equipment, Southern Machinery, THT insertion line, ionizer bar, pcb, pcb cleaner, pcb surface cleaning machine, smthelp, surface cleaning
+- **Full metadata**: `pcb-surface-cleaning-machine-sk460-inline-ionizer-dust-removal-smt-ems-southern-machinery.meta.json`
+
+### PCB Inverter (S-K250)
+
+- **File**: `pcb-inverter-sk250-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Inverter S-K250 | 180° Board Turn ~5s | Southern Machinery
+- **Meta Description**: Southern Machinery S-K250 PCB inverter turns boards 180 degrees for double sided processing with about 5 second cycle time, Omron PLC control, PCB from 0.6 mm thickness.
+- **Key Specs**: Model: S-K250 · Max PCB Size: 50×50 – 250×330 mm · Machine Dimensions: 550 × 650 × 1350 mm · Cycle Time: Approx. 5 seconds · Weight: 170 KG · Power: 230VAC 1ph 150VA max
+- **Tags**: EMS factory, PCB handling, S-K250, SMT peripheral equipment, Southern Machinery, THT insertion line, board flipper, double sided assembly, pcb inverter, smt, smt pcb inverter, smthelp
+- **Full metadata**: `pcb-inverter-sk250-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.meta.json`
+
+### PCB Inverter (S-K330)
+
+- **File**: `pcb-inverter-sk330-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Inverter S-K330 | 180° Board Turn ~5s | Southern Machinery
+- **Meta Description**: Southern Machinery S-K330 PCB inverter turns boards 180 degrees for double sided processing with about 5 second cycle time, Omron PLC control, PCB from 0.6 mm thickness.
+- **Key Specs**: Model: S-K330 · Max PCB Size: 50×50 – 330×450 mm · Machine Dimensions: 550 × 680 × 1200 mm · Cycle Time: Approx. 5 seconds · Weight: 185 KG · Power: 230VAC 1ph 150VA max
+- **Tags**: EMS factory, PCB handling, S-K330, SMT peripheral equipment, Southern Machinery, THT insertion line, board flipper, double sided assembly, pcb inverter, smt, smt pcb inverter, smthelp
+- **Full metadata**: `pcb-inverter-sk330-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.meta.json`
+
+### PCB Inverter (S-K390)
+
+- **File**: `pcb-inverter-sk390-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Inverter S-K390 | 180° Board Turn ~5s | Southern Machinery
+- **Meta Description**: Southern Machinery S-K390 PCB inverter turns boards 180 degrees for double sided processing with about 5 second cycle time, Omron PLC control, PCB from 0.6 mm thickness.
+- **Key Specs**: Model: S-K390 · Max PCB Size: 50×50 – 390×530 mm · Machine Dimensions: 550 × 780 × 1200 mm · Cycle Time: Approx. 5 seconds · Weight: 220 KG · Power: 230VAC 1ph 150VA max
+- **Tags**: EMS factory, PCB handling, S-K390, SMT peripheral equipment, Southern Machinery, THT insertion line, board flipper, double sided assembly, pcb inverter, smt, smt pcb inverter, smthelp
+- **Full metadata**: `pcb-inverter-sk390-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.meta.json`
+
+### PCB Inverter (S-K460)
+
+- **File**: `pcb-inverter-sk460-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: PCB Inverter S-K460 | 180° Board Turn ~5s | Southern Machinery
+- **Meta Description**: Southern Machinery S-K460 PCB inverter turns boards 180 degrees for double sided processing with about 5 second cycle time, Omron PLC control, PCB from 0.6 mm thickness.
+- **Key Specs**: Model: S-K460 · Max PCB Size: 50×50 – 460×530 mm · Machine Dimensions: 550 × 850 × 1200 mm · Cycle Time: Approx. 5 seconds · Weight: 260 KG · Power: 230VAC 1ph 150VA max
+- **Tags**: EMS factory, PCB handling, S-K460, SMT peripheral equipment, Southern Machinery, THT insertion line, board flipper, double sided assembly, pcb inverter, smt, smt pcb inverter, smthelp
+- **Full metadata**: `pcb-inverter-sk460-180-degree-board-inverter-double-sided-smt-ems-southern-machinery.meta.json`
+
+### Telescopic Gate Conveyor (SAC330)
+
+- **File**: `telescopic-gate-conveyor-sac330-automatic-pass-through-line-crossing-smt-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: `SMThelp Peripheral Equipment 2020.pdf`
+- **SEO Title**: Telescopic Gate Conveyor SAC330 | Pass-through in 6s | Southern Machinery
+- **Meta Description**: Southern Machinery SAC330 telescopic gate conveyor lets people and vehicles cross the SMT line automatically, 850 mm telescopic length, 6 second open and retract cycle.
+- **Key Specs**: Model: SAC330 · Max PCB Size: 50×50 – 445×330 mm · Machine Dimensions: 1500 × 850 × 1300 mm · Telescopic Length: 850 mm · Weight: 250 KG · Power: AC100/220/230V · Max 100W
+- **Tags**: EMS factory, PCB handling, SAC330, SMT peripheral equipment, Southern Machinery, THT insertion line, gate conveyor, pass through conveyor, smt, smt telescopic gate conveyor, smthelp, telescopic conveyor, telescopic gate conveyor
+- **Full metadata**: `telescopic-gate-conveyor-sac330-automatic-pass-through-line-crossing-smt-ems-southern-machinery.meta.json`

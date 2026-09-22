@@ -1,0 +1,52 @@
+{
+  "source_pdf": "SMThelp Peripheral Equipment 2020.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/SMThelp Peripheral Equipment 2020.pdf",
+  "product": {
+    "model": "SPD460",
+    "name": "PCB Traverser",
+    "family": "traverser",
+    "headline": "SPD460: PCB Traverser",
+    "intro": "The Southern Machinery SPD460 transfers boards from one line into two lines or vice versa, keeping the orientation of the board unchanged during traversing."
+  },
+  "seo": {
+    "filename": "pcb-traverser-spd460-one-line-two-line-transfer-board-changer-smt-ems-southern-machinery.png",
+    "title": "PCB Traverser SPD460 | 1-to-2 Line Transfer | Southern Machinery",
+    "description": "Southern Machinery SPD460 PCB traverser moves boards between one and two lines without changing board orientation, PCB sizes from 50x50 up to 457×390 mm.",
+    "keywords": [
+      "EMS factory",
+      "PCB handling",
+      "SMT peripheral equipment",
+      "SPD460",
+      "Southern Machinery",
+      "THT insertion line",
+      "board transfer unit",
+      "line changer",
+      "pcb traverser",
+      "smt",
+      "smt pcb traverser",
+      "smthelp"
+    ]
+  },
+  "key_specs": {
+    "Model": "SPD460",
+    "Max PCB Size": "50×50 – 457×390 mm",
+    "Machine Dimensions": "600 × 880 × 1050 mm",
+    "Function": "1-to-2 / 2-to-1 line transfer",
+    "Weight": "220 KG",
+    "Power": "AC220V 50/60 Hz 1-phase"
+  },
+  "contact": {
+    "company": "Shenzhen Southern Machinery Sales And Service Co., Ltd",
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com",
+    "whatsapp": "+86 13602562576",
+    "source": "SMThelp Peripheral Equipment 2020.pdf"
+  },
+  "poster": {
+    "template": "SP-830 (16:9)",
+    "aspect_ratio": "16:9",
+    "reference_photo": "traverser.png",
+    "generated_by": "smt-product-poster skill v1.0.2",
+    "generated_date": "2026-09-22"
+  }
+}
