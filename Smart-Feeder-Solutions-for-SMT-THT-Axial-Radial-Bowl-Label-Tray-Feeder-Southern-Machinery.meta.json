@@ -1,0 +1,57 @@
+{
+  "source_pdf": "In-house product poster — Southern Machinery custom feeder range (axial / radial / bowl / label / tray)",
+  "generated_at": "2026-06-10",
+  "contributed_at": "2026-09-22",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "portrait product poster",
+    "pixels": "1055x1491",
+    "aspect_ratio": "0.708",
+    "watermark": null
+  },
+  "product": {
+    "model": "Smart Feeder Series",
+    "name": "Smart Feeder Solutions for SMT & THT",
+    "category": "Custom automatic feeders for SMT/THT and odd-form component feeding",
+    "target_audience": "EMS factories, SMT/THT assembly lines, odd-form and DIP insertion production"
+  },
+  "seo": {
+    "filename": "Smart-Feeder-Solutions-for-SMT-THT-Axial-Radial-Bowl-Label-Tray-Feeder-Southern-Machinery.png",
+    "title": "Smart Feeder Solutions for SMT & THT | Axial, Radial, Bowl, Label & Tray Feeders | Southern Machinery",
+    "description": "Southern Machinery smart feeder solutions for SMT & THT: axial tape feeders with U-shaping and lead trimming, radial tape feeders for DIP and odd-form parts, bowl feeders for bulk components, MES-ready label feeders and automated tray feeders. Compatible with any SMT machine. www.smthelp.com",
+    "keywords": [
+      "SMT feeder",
+      "THT feeder",
+      "axial tape feeder",
+      "radial tape feeder",
+      "bowl feeder",
+      "label feeder",
+      "tray feeder",
+      "odd-form component feeding",
+      "DIP insertion feeder",
+      "custom SMT feeder",
+      "MES label placement",
+      "component feeding system",
+      "SMT automation",
+      "EMS factory equipment",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "Smart Feeder Solutions poster — axial, radial, bowl, label and tray feeders for SMT & THT lines with high compatibility and custom non-standard designs."
+  },
+  "key_specs": {
+    "Axial Tape Feeder": "U-shaping & lead trimming; high-speed, stable feeding with reliable linkage",
+    "Radial Tape Feeder": "Feeding, shaping, cutting & bending of radial parts; supports DIP insertion and odd-form components",
+    "Bowl Feeder": "Bulk component feeding; sorts, orients and automates part feeding",
+    "Label Feeder": "Automatic QR label placement for MES; handles labels, FPC sheets and diverse reel materials",
+    "Tray Feeder": "Automated tray material supply; ideal for 3C products and auxiliary lines",
+    "Compatibility": "Compatible with ANY SMT machine",
+    "Engineering": "Custom non-standard solutions tailored for odd-form and special components",
+    "Benefit": "Improved labor utilization — automated feeding and handling reduce manual labor"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

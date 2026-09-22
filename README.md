@@ -417,3 +417,43 @@ SMT产品PPT转营销海报poster
 - **Meta Description**: CCD-aligned CNC routing PCB separator: +/-0.02 mm repeat accuracy, 60000 rpm spindle, 0.8-3.0 mm bits, up to 4 mm boards, built-in 3.7 kW dust collector.
 - **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, CNC routing separator, CCD visual alignment depanelizer, stamp PCB separator, S-D4500, auto separator serial, dust collection router
 - **Full metadata**: `S-D4500.meta.json`
+
+## Cleaning, Taping & Portfolio Series (contributed by leoliao / smthelp159, 2026-09-22)
+
+### S-300B — Smart Brain: Automation Control at Your Fingertips
+
+- **File**: `S-300B-Smart-Brain-Automatic-Molding-Taping-Machine-PLC-Touch-Screen-Control-SMT-THT-EMS-Southern-Machinery.png` (portrait, 1536×2752)
+- **Source**: In-house product poster — S-300B Fully Automatic High-Speed Molding and Taping Machine
+- **SEO Title**: S-300B Smart Brain Automatic Molding & Taping Machine | PLC Touch Screen Control | Southern Machinery
+- **Meta Description**: Southern Machinery S-300B automatic molding and taping machine: PLC/MCU core control, responsive LCD touch HMI, real-time I/O status monitoring, second-level parameter adjustment and at-a-glance alarm diagnostics. Smart factory, control first. www.smthelp.com
+- **Tags**: S-300B, automatic molding and taping machine, taping machine, SMT taping machine, PLC control system, LCD touch screen HMI, real-time status monitoring, smart factory automation, THT equipment, EMS factory equipment, semiconductor taping, Southern Machinery, SMThelp, machine control system, quick troubleshooting
+- **Full metadata**: `S-300B-Smart-Brain-Automatic-Molding-Taping-Machine-PLC-Touch-Screen-Control-SMT-THT-EMS-Southern-Machinery.meta.json`
+
+### SME-5500 — Automatic SMT Fixture & Pallet Cleaning Machine
+
+- **File**: `SME-5500-Automatic-SMT-Fixture-Cleaning-Machine-360-Spray-In-Air-3-Stage-Filtration-SUS304-SMT-EMS-Southern-Machinery.png` (portrait, 1536×2752)
+- **Source**: In-house product poster — SME-5500 pallet / fixture cleaning machine (see also `SME-5500Pallet Cleaning machine.pdf`)
+- **SEO Title**: SME-5500 Automatic SMT Fixture Cleaning Machine | 360° Spray-In-Air | Southern Machinery
+- **Meta Description**: Replace manual scrubbing with the SME-5500: Ø1450 mm rotating basket, 360° spray-in-air coverage and 3-stage closed-loop filtration. Cleans 20-40 SMT fixtures or wave soldering pallets per 30-40 minute wash-rinse-dry cycle in a full SUS304 stainless steel body. www.smthelp.com
+- **Tags**: SME-5500, SMT fixture cleaning machine, wave soldering pallet cleaner, reflow oven cooler cleaning, automatic pallet cleaning, spray-in-air cleaning, rotating basket cleaning machine, 3-stage filtration, SUS304 cleaning machine, PCB pallet washer, SMT automation, EMS factory equipment, labor saving cleaning, fixture maintenance, Southern Machinery, SMThelp
+- **Full metadata**: `SME-5500-Automatic-SMT-Fixture-Cleaning-Machine-360-Spray-In-Air-3-Stage-Filtration-SUS304-SMT-EMS-Southern-Machinery.meta.json`
+
+### Smart Feeder Series — Smart Feeder Solutions for SMT & THT
+
+- **File**: `Smart-Feeder-Solutions-for-SMT-THT-Axial-Radial-Bowl-Label-Tray-Feeder-Southern-Machinery.png` (portrait, 1055×1491)
+- **Source**: In-house product poster — Southern Machinery custom feeder range (axial / radial / bowl / label / tray)
+- **SEO Title**: Smart Feeder Solutions for SMT & THT | Axial, Radial, Bowl, Label & Tray Feeders | Southern Machinery
+- **Meta Description**: Southern Machinery smart feeder solutions for SMT & THT: axial tape feeders with U-shaping and lead trimming, radial tape feeders for DIP and odd-form parts, bowl feeders for bulk components, MES-ready label feeders and automated tray feeders. Compatible with any SMT machine. www.smthelp.com
+- **Tags**: SMT feeder, THT feeder, axial tape feeder, radial tape feeder, bowl feeder, label feeder, tray feeder, odd-form component feeding, DIP insertion feeder, custom SMT feeder, MES label placement, component feeding system, SMT automation, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `Smart-Feeder-Solutions-for-SMT-THT-Axial-Radial-Bowl-Label-Tray-Feeder-Southern-Machinery.meta.json`
+
+### Product Portfolio — SMT & THT Automation (A4 print master)
+
+- **File**: `SMT-THT-Automation-Product-Portfolio-Feeder-Nozzle-Reel-Storage-A4-300dpi-Southern-Machinery.png` (A4 portrait print master, 3508×4961 @300dpi)
+- **Source**: In-house product portfolio poster — Southern Machinery SMT & THT automation range
+- **SEO Title**: SMT & THT Automation Product Portfolio | Feeders, Nozzles & Smart Reel Storage | Southern Machinery
+- **Meta Description**: Southern Machinery SMT & THT automation portfolio: ten feeding automation solutions (axial, radial, tube, bowl, belt, label, tray, jumper wire, solder chip, reel terminal), special application nozzles, smart SMT reel storage and intelligent material management with MES/ERP integration. Proven on Panasonic, JUKI, Yamaha and Mirae lines. www.smthelp.com
+- **Tags**: SMT automation, THT automation, SMT feeder, special application nozzles, gripper nozzle, THT component handling, smart SMT reel storage, intelligent material management, MES integration, SMT product portfolio, odd-form insertion, pick and place, EMS factory equipment, Panasonic CM602, JUKI, Yamaha, Mirae, Southern Machinery, SMThelp
+- **Full metadata**: `SMT-THT-Automation-Product-Portfolio-Feeder-Nozzle-Reel-Storage-A4-300dpi-Southern-Machinery.meta.json`
+
+> **Note on formats**: the AGV / loader / feeder entries above are landscape 16:9 (2K). The four entries in this section are portrait posters (infographic and print-master layouts) — `index.html` renders them with the `tall` card class so the full artwork is shown instead of being cropped to 16:9.

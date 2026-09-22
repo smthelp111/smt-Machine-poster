@@ -1,0 +1,54 @@
+{
+  "source_pdf": "In-house product poster — S-300B Fully Automatic High-Speed Molding and Taping Machine (E:/本司产品/S-300B ...)",
+  "generated_at": "2026-01-13",
+  "contributed_at": "2026-09-22",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "portrait infographic poster",
+    "pixels": "1536x2752",
+    "aspect_ratio": "0.558",
+    "watermark": null
+  },
+  "product": {
+    "model": "S-300B",
+    "name": "Smart Brain — Automation Control at Your Fingertips",
+    "category": "Automatic molding & taping machine control system for SMT/THT lines",
+    "target_audience": "SMT/THT manufacturers, EMS factories, semiconductor taping and molding lines"
+  },
+  "seo": {
+    "filename": "S-300B-Smart-Brain-Automatic-Molding-Taping-Machine-PLC-Touch-Screen-Control-SMT-THT-EMS-Southern-Machinery.png",
+    "title": "S-300B Smart Brain Automatic Molding & Taping Machine | PLC Touch Screen Control | Southern Machinery",
+    "description": "Southern Machinery S-300B automatic molding and taping machine: PLC/MCU core control, responsive LCD touch HMI, real-time I/O status monitoring, second-level parameter adjustment and at-a-glance alarm diagnostics. Smart factory, control first. www.smthelp.com",
+    "keywords": [
+      "S-300B",
+      "automatic molding and taping machine",
+      "taping machine",
+      "SMT taping machine",
+      "PLC control system",
+      "LCD touch screen HMI",
+      "real-time status monitoring",
+      "smart factory automation",
+      "THT equipment",
+      "EMS factory equipment",
+      "semiconductor taping",
+      "Southern Machinery",
+      "SMThelp",
+      "machine control system",
+      "quick troubleshooting"
+    ],
+    "og_image_alt": "S-300B Smart Brain poster — PLC/MCU core control, LCD touch interface, real-time I/O monitoring and second-level parameter adjustment for automatic molding and taping."
+  },
+  "key_specs": {
+    "Control Core": "High-performance Microcontroller (MCU) / PLC system",
+    "Operator Interface": "Responsive LCD touch screen; simplified single-screen operation",
+    "Status Monitoring": "Real-time control points, I/O status and full working state",
+    "Parameter Adjustment": "Box count, blank tape count and feed delay — second-level response",
+    "Diagnostics": "Dedicated alarm window pinpointing the cause of any machine fault",
+    "Positioning": "Reduces complex taping processes to a few simple on-screen clicks"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

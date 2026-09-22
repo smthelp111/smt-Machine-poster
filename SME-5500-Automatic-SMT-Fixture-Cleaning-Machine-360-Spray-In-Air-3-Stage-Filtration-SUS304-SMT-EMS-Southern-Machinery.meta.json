@@ -1,0 +1,57 @@
+{
+  "source_pdf": "In-house product poster — SME-5500 pallet / fixture cleaning machine (see also SME-5500Pallet Cleaning machine.pdf)",
+  "generated_at": "2025-12-29",
+  "contributed_at": "2026-09-22",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "portrait infographic poster",
+    "pixels": "1536x2752",
+    "aspect_ratio": "0.558",
+    "watermark": "NotebookLM"
+  },
+  "product": {
+    "model": "SME-5500",
+    "name": "Automatic SMT Fixture & Pallet Cleaning Machine",
+    "category": "Automatic cleaning system for SMT fixtures, wave soldering pallets and reflow oven coolers",
+    "target_audience": "EMS factories, SMT/THT production lines, wave soldering and reflow operators"
+  },
+  "seo": {
+    "filename": "SME-5500-Automatic-SMT-Fixture-Cleaning-Machine-360-Spray-In-Air-3-Stage-Filtration-SUS304-SMT-EMS-Southern-Machinery.png",
+    "title": "SME-5500 Automatic SMT Fixture Cleaning Machine | 360° Spray-In-Air | Southern Machinery",
+    "description": "Replace manual scrubbing with the SME-5500: Ø1450 mm rotating basket, 360° spray-in-air coverage and 3-stage closed-loop filtration. Cleans 20-40 SMT fixtures or wave soldering pallets per 30-40 minute wash-rinse-dry cycle in a full SUS304 stainless steel body. www.smthelp.com",
+    "keywords": [
+      "SME-5500",
+      "SMT fixture cleaning machine",
+      "wave soldering pallet cleaner",
+      "reflow oven cooler cleaning",
+      "automatic pallet cleaning",
+      "spray-in-air cleaning",
+      "rotating basket cleaning machine",
+      "3-stage filtration",
+      "SUS304 cleaning machine",
+      "PCB pallet washer",
+      "SMT automation",
+      "EMS factory equipment",
+      "labor saving cleaning",
+      "fixture maintenance",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "SME-5500 poster — automated SMT fixture cleaning with 360° spray-in-air coverage, rotating basket and 3-stage closed-loop filtration replacing manual scrubbing."
+  },
+  "key_specs": {
+    "Cleaning Basket Diameter": "Ø1450 mm",
+    "Total Cycle Time": "30-40 minutes (Wash → Rinse → Dry)",
+    "Applications": "Wave soldering pallets, SMT reflow ovens, SMT fixtures",
+    "Construction": "Full SUS304 stainless steel body",
+    "Coverage": "360° rotating basket with multi-directional spray jets — zero blind spots",
+    "Filtration": "3-stage closed-loop filtration (Grade 1 / 2 / 3) recycles cleaning liquid and rinse water",
+    "Batch Capacity": "20-40 fixtures per fully automated cycle",
+    "Control": "PLC automation eliminates human variables for repeatable results"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}
