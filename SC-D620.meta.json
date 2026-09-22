@@ -1,0 +1,54 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "SC-D620",
+    "name": "SC-D620 Chopper PCB Separator",
+    "serial": "600 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Chopper-Guillotine-V-cut-PCB-Separator-SC-D620-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "SC-D620 Chopper V-cut PCB Separator | Southern Machinery",
+    "title_length": 56,
+    "description": "Pneumatic guillotine chopper V-cut PCB separator: strain under 180 uE, 330 mm cutting length, 0.3-3.5 mm boards, 60 mm component clearance, one cut per second.",
+    "description_length": 159,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "chopper separator",
+      "guillotine PCB separator",
+      "pneumatic depanelizer",
+      "SC-D620",
+      "600 separator serial",
+      "low strain separation"
+    ]
+  },
+  "key_specs": {
+    "Machine Size": "680x250x450 mm",
+    "Max Cutting Length": "330 mm",
+    "Cutting Speed": "80-500 mm/S",
+    "PCB Thickness": "0.3-3.5 mm",
+    "Max Component Height": "60 mm",
+    "Machine Weight": "130 kg",
+    "Power": "220VAC / 110VA"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p6_620.png",
+    "crops/p6_620b.png"
+  ]
+}

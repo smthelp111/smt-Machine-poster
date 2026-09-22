@@ -1,0 +1,52 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "SC-D509",
+    "name": "SC-D509 V-cut PCB Separator with Conveyor",
+    "serial": "500 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Conveyor-Moveable-V-cut-PCB-Separator-SC-D509-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "SC-D509 V-cut PCB Separator with Conveyor | Southern Machinery",
+    "title_length": 62,
+    "description": "Moveable-blade V-cut PCB separator with built-in out-feed conveyor: 360 and 500 mm strokes, 0-500 mm/s, 0.2-5 mm boards, 40 W. For inline EMS and LED lines.",
+    "description_length": 156,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "conveyor PCB separator",
+      "inline depanelizer",
+      "SC-D509",
+      "500 separator serial",
+      "auto out-feed separator"
+    ]
+  },
+  "key_specs": {
+    "Machine Size": "L*W400*H430 mm (length depend on conveyor)",
+    "Max Cutting Length": "360 mm and 500 mm",
+    "Cutting Speed": "0-500 mm/S",
+    "PCB Thickness": "0.2-5 mm",
+    "V-slot Thickness": "0.25-2.0 mm",
+    "Machine Weight": "37 kg",
+    "Power": "40 W / 230V/50Hz (110V/60Hz)"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p3_509.png"
+  ]
+}

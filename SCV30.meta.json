@@ -1,0 +1,56 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "SCV30",
+    "name": "SCV30 Auto & Online V-cut PCB Separator",
+    "serial": "600 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)",
+    "photo_source_note": "The brochure gives SCV30 no product photo; its specification and feature list are identical to SC-D620, so the SC-D620 chopper photo was reused. Confirm with a real SCV30 photo before publishing if the inline version looks different.",
+    "photo_source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf"
+  },
+  "seo": {
+    "filename": "Auto-Online-Chopper-V-cut-PCB-Separator-SCV30-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "SCV30 Auto & Online V-cut PCB Separator | Southern Machinery",
+    "title_length": 60,
+    "description": "Inline pneumatic chopper V-cut PCB separator for SMT lines: under 180 uE strain, 330 mm cutting length, 0.3-3.5 mm boards, 60 mm component clearance, 1 cut/s.",
+    "description_length": 158,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "online PCB separator",
+      "chopper depanelizer",
+      "inline separator",
+      "SCV30",
+      "600 separator serial",
+      "SMT line separator"
+    ]
+  },
+  "key_specs": {
+    "Machine Size": "680x250x450 mm",
+    "Max Cutting Length": "330 mm",
+    "Cutting Speed": "80-500 mm/S",
+    "PCB Thickness": "0.3-3.5 mm",
+    "Max Component Height": "60 mm",
+    "Machine Weight": "130 kg",
+    "Power": "220VAC / 110VA"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p6_620.png",
+    "crops/p6_620b.png"
+  ]
+}

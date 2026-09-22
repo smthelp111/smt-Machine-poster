@@ -1,0 +1,53 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D502",
+    "name": "S-D502 LED Tube Separator (2.4M)",
+    "serial": "500 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "2.4M-LED-Tube-V-cut-PCB-Separator-S-D502-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "S-D502 LED Tube V-cut Separator 2.4M | Southern Machinery",
+    "title_length": 57,
+    "description": "2.4 metre platform LED tube separator: 1200 mm cutting length, 0.2-5 mm boards, 80-500 mm/s circular blades. Built for long LED strip panels in EMS factories.",
+    "description_length": 158,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "LED tube separator",
+      "2.4M separator",
+      "long PCB depanelizer",
+      "S-D502",
+      "500 separator serial"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-D502",
+    "Max Cutting Length": "1200 mm",
+    "Cutting Speed": "80 / 120 / 200 / 500 mm/S",
+    "PCB Thickness": "0.2-5 mm",
+    "Machine Size": "2400*360*190 mm",
+    "Machine Weight": "44 kg",
+    "Power Supply": "230V/50Hz (110V/60Hz)"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p1_main.png",
+    "crops/p1_close.png"
+  ]
+}

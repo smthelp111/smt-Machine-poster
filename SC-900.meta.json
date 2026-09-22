@@ -1,0 +1,54 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "SC-900",
+    "name": "SC-900 Groups-Blade PCB Separator",
+    "serial": "900 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Groups-Blade-V-cut-PCB-Separator-SC-900-Multi-Blade-LED-Board-SMT-EMS-Southern-Machinery.png",
+    "title": "SC-900 Groups-Blade V-cut PCB Separator | Southern Machinery",
+    "title_length": 60,
+    "description": "Multi-blade group shaft V-cut PCB separator: 1500 pcs/h, 100 mm to unlimited length, 0.2-3.0 mm boards, 0.1 mm blade gap accuracy, SMEMA compatible.",
+    "description_length": 148,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "groups blade separator",
+      "multi blade PCB machine",
+      "LED panel separator",
+      "SC-900",
+      "900 separator serial",
+      "SMEMA separator"
+    ]
+  },
+  "key_specs": {
+    "Model": "SC-900",
+    "Max Cutting Length": "100 mm - Unlimited",
+    "Cutting Speed": "0-300 mm/s, Adjustable",
+    "V-Cut Thickness": "0.2-3.0 mm",
+    "Max Component Height": "<=12.5 mm",
+    "Machine Weight": "250 kg",
+    "Dimension": "2690*680*1160 mm"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p8_900real.png",
+    "crops/p8_900cad.png"
+  ]
+}

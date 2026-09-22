@@ -1,0 +1,53 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D4500",
+    "name": "S-D4500 Routing PCB Separator",
+    "serial": "Auto separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Routing-PCB-Separator-S-D4500-CNC-Depanelizer-Stamp-PCB-CCD-SMT-EMS-Southern-Machinery.png",
+    "title": "S-D4500 Routing PCB Separator, 60000 rpm | Southern Machinery",
+    "title_length": 61,
+    "description": "CCD-aligned CNC routing PCB separator: +/-0.02 mm repeat accuracy, 60000 rpm spindle, 0.8-3.0 mm bits, up to 4 mm boards, built-in 3.7 kW dust collector.",
+    "description_length": 153,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "CNC routing separator",
+      "CCD visual alignment depanelizer",
+      "stamp PCB separator",
+      "S-D4500",
+      "auto separator serial",
+      "dust collection router"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-D4500",
+    "Machine Size": "L1400*W1200*H1600 mm",
+    "Work Area": "X:350 / Y1:330 / Y2:330 / Z:0-50 mm",
+    "Router Bit Diameter": "0.8-3.0 mm",
+    "Max PCB Thickness": "4 mm",
+    "Weight": "Approx 780 kg",
+    "Power Supply": "380V/50Hz, 5000 W"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p14_4500.png"
+  ]
+}

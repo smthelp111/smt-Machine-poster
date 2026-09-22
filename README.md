@@ -287,3 +287,133 @@ SMT产品PPT转营销海报poster
 - **Meta Description**: Smart SMT reel storage rack for 13-inch carriers — simplifying receiving, storage and retrieval with full traceability.
 - **Tags**: SIS4000A, smart smt reel storage rack (13-in), SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
 - **Full metadata**: `SIS4000A.meta.json`
+
+## PCB Separator Series (from PCB Separator serial brochure-Southern Machinery.pdf)
+
+### S-D500 Desktop V-cut PCB Separator (S-D500)
+
+- **File**: `Desktop-V-cut-PCB-Separator-S-D500-Circular-Blade-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: S-D500 Desktop V-cut PCB Separator | 360mm | Southern Machinery
+- **Meta Description**: Compact circular-blade V-cut PCB separator: 360 mm cutting length, 0.2-5 mm boards, 80-500 mm/s. For LED and EMS factories replacing manual break-off.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, desktop separator, circular blade separator, S-D500, 500 separator serial, LED board separator
+- **Full metadata**: `S-D500.meta.json`
+
+### S-D501 V-cut PCB Separator (1.2M Platform) (S-D501)
+
+- **File**: `1.2M-Platform-V-cut-PCB-Separator-S-D501-Circular-Blade-Depanelizer-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: S-D501 V-cut PCB Separator, 1000mm Cutting | Southern Machinery
+- **Meta Description**: 1200 mm guide platform circular-blade V-cut PCB separator: 1000 mm cutting length, 0.2-5 mm boards, 80-500 mm/s. For long LED strip boards in EMS factories.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, 1.2M platform separator, long board depanelizer, S-D501, 500 separator serial, LED strip separator
+- **Full metadata**: `S-D501.meta.json`
+
+### S-D502 LED Tube Separator (2.4M) (S-D502)
+
+- **File**: `2.4M-LED-Tube-V-cut-PCB-Separator-S-D502-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: S-D502 LED Tube V-cut Separator 2.4M | Southern Machinery
+- **Meta Description**: 2.4 metre platform LED tube separator: 1200 mm cutting length, 0.2-5 mm boards, 80-500 mm/s circular blades. Built for long LED strip panels in EMS factories.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, LED tube separator, 2.4M separator, long PCB depanelizer, S-D502, 500 separator serial
+- **Full metadata**: `S-D502.meta.json`
+
+### SC-D508 Moveable V-cut PCB Separator (SC-D508)
+
+- **File**: `Moveable-Blade-V-cut-PCB-Separator-SC-D508-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: SC-D508 Moveable V-cut PCB Separator | Southern Machinery
+- **Meta Description**: Moveable-blade V-cut PCB separator: 360 and 500 mm strokes, 0-500 mm/s, 0.2-5 mm boards, 0-50 mm platform travel. Auto stop position for EMS and LED lines.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, moveable blade separator, adjustable V-cut machine, SC-D508, 500 separator serial, foot switch separator
+- **Full metadata**: `SC-D508.meta.json`
+
+### SC-D509 V-cut PCB Separator with Conveyor (SC-D509)
+
+- **File**: `Conveyor-Moveable-V-cut-PCB-Separator-SC-D509-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: SC-D509 V-cut PCB Separator with Conveyor | Southern Machinery
+- **Meta Description**: Moveable-blade V-cut PCB separator with built-in out-feed conveyor: 360 and 500 mm strokes, 0-500 mm/s, 0.2-5 mm boards, 40 W. For inline EMS and LED lines.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, conveyor PCB separator, inline depanelizer, SC-D509, 500 separator serial, auto out-feed separator
+- **Full metadata**: `SC-D509.meta.json`
+
+### S-D505 Auto Moveable Cutting Separator (S-D505)
+
+- **File**: `Auto-Moveable-V-cut-PCB-Separator-S-D505-Cabinet-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: S-D505 Auto Moveable V-cut PCB Separator | Southern Machinery
+- **Meta Description**: Cabinet-type automatic moveable-blade V-cut PCB separator: 0-360 mm cutting length, 80-500 mm/s, 0.2-5 mm boards, touch-screen control, 1100x730x630 mm.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, cabinet PCB separator, automatic depanelizer, S-D505, 500 separator serial, touch screen separator
+- **Full metadata**: `S-D505.meta.json`
+
+### S-D506 Auto Moveable Cutting Separator (S-D506)
+
+- **File**: `Auto-Moveable-V-cut-PCB-Separator-S-D506-Tall-Frame-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (500 separator serial)
+- **SEO Title**: S-D506 Auto Moveable V-cut PCB Separator | Southern Machinery
+- **Meta Description**: Tall-frame automatic moveable-blade V-cut PCB separator: 0-360 mm cutting length, 80-500 mm/s, 0.2-5 mm boards, 1105 mm working height for easy board loading.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, cabinet PCB separator, tall frame depanelizer, S-D506, 500 separator serial, ergonomic separator
+- **Full metadata**: `S-D506.meta.json`
+- **Photo note**: Brochure page 4 shows one photo for the S-D505/S-D506 pair; the same machine photo is used for both posters.
+
+### S-D601 LED MCPCB Separator / Depanelizer (S-D601)
+
+- **File**: `LED-MCPCB-Separator-Depanelizer-S-D601-Three-Pair-Beveled-Blade-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (600 separator serial)
+- **SEO Title**: S-D601 LED MCPCB Separator & Depanelizer | Southern Machinery
+- **Meta Description**: Three-pair bevelled-blade LED MCPCB separator: unlimited cutting length on the 2.4M base, 80-500 mm/s, 0.5-3 mm aluminium boards with no bending or LED damage.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, LED MCPCB separator, MCPCB depanelizer, bevelled blade separator, S-D601, 600 separator serial, aluminium PCB separator
+- **Full metadata**: `S-D601.meta.json`
+
+### SC-D620 Chopper PCB Separator (SC-D620)
+
+- **File**: `Chopper-Guillotine-V-cut-PCB-Separator-SC-D620-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (600 separator serial)
+- **SEO Title**: SC-D620 Chopper V-cut PCB Separator | Southern Machinery
+- **Meta Description**: Pneumatic guillotine chopper V-cut PCB separator: strain under 180 uE, 330 mm cutting length, 0.3-3.5 mm boards, 60 mm component clearance, one cut per second.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, chopper separator, guillotine PCB separator, pneumatic depanelizer, SC-D620, 600 separator serial, low strain separation
+- **Full metadata**: `SC-D620.meta.json`
+
+### SCV30 Auto & Online V-cut PCB Separator (SCV30)
+
+- **File**: `Auto-Online-Chopper-V-cut-PCB-Separator-SCV30-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (600 separator serial)
+- **SEO Title**: SCV30 Auto & Online V-cut PCB Separator | Southern Machinery
+- **Meta Description**: Inline pneumatic chopper V-cut PCB separator for SMT lines: under 180 uE strain, 330 mm cutting length, 0.3-3.5 mm boards, 60 mm component clearance, 1 cut/s.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, online PCB separator, chopper depanelizer, inline separator, SCV30, 600 separator serial, SMT line separator
+- **Full metadata**: `SCV30.meta.json`
+- **Photo note**: The brochure gives SCV30 no product photo; its specification and feature list are identical to SC-D620, so the SC-D620 chopper photo was reused. Confirm with a real SCV30 photo before publishing if the inline version looks different.
+
+### SC-900 Groups-Blade PCB Separator (SC-900)
+
+- **File**: `Groups-Blade-V-cut-PCB-Separator-SC-900-Multi-Blade-LED-Board-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (900 separator serial)
+- **SEO Title**: SC-900 Groups-Blade V-cut PCB Separator | Southern Machinery
+- **Meta Description**: Multi-blade group shaft V-cut PCB separator: 1500 pcs/h, 100 mm to unlimited length, 0.2-3.0 mm boards, 0.1 mm blade gap accuracy, SMEMA compatible.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, groups blade separator, multi blade PCB machine, LED panel separator, SC-900, 900 separator serial, SMEMA separator
+- **Full metadata**: `SC-900.meta.json`
+
+### S-D3500 Online Routing PCB Separator (S-D3500)
+
+- **File**: `Online-Routing-PCB-Separator-S-D3500-CNC-Depanelizer-Stamp-PCB-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (Auto separator serial)
+- **SEO Title**: S-D3500 Online Routing PCB Separator | Southern Machinery
+- **Meta Description**: Servo CNC online routing PCB separator: +/-0.01 mm precision, 60000 rpm air-cooled spindle, 0.8-2.0 mm bits, automatic blade change, inline load and unload.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, CNC routing separator, online router depanelizer, stamp PCB separator, S-D3500, auto separator serial, irregular outline cutting
+- **Full metadata**: `S-D3500.meta.json`
+
+### S-D3500S Online Routing PCB Separator (S-D3500S)
+
+- **File**: `Online-Routing-PCB-Separator-S-D3500S-CNC-Depanelizer-Stamp-PCB-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (Auto separator serial)
+- **SEO Title**: S-D3500S Online Routing PCB Separator | Southern Machinery
+- **Meta Description**: 49-point spec CNC routing PCB separator: +/-0.01 mm precision, 60000 rpm spindle, vacuum manipulator, <=78 dB enclosure, auto tool change for stamp PCB lines.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, CNC routing separator, online router depanelizer, stamp PCB separator, S-D3500S, auto separator serial, servo PCB router
+- **Full metadata**: `S-D3500S.meta.json`
+
+### S-D4500 Routing PCB Separator (S-D4500)
+
+- **File**: `Routing-PCB-Separator-S-D4500-CNC-Depanelizer-Stamp-PCB-CCD-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `PCB Separator serial brochure-Southern Machinery.pdf` (Auto separator serial)
+- **SEO Title**: S-D4500 Routing PCB Separator, 60000 rpm | Southern Machinery
+- **Meta Description**: CCD-aligned CNC routing PCB separator: +/-0.02 mm repeat accuracy, 60000 rpm spindle, 0.8-3.0 mm bits, up to 4 mm boards, built-in 3.7 kW dust collector.
+- **Tags**: PCB separator, PCB depaneling machine, V-cut PCB separator, PCB depanelizer, SMT peripheral equipment, EMS factory, Southern Machinery, smthelp, 分板机, CNC routing separator, CCD visual alignment depanelizer, stamp PCB separator, S-D4500, auto separator serial, dust collection router
+- **Full metadata**: `S-D4500.meta.json`

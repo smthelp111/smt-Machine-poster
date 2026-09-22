@@ -1,0 +1,54 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D506",
+    "name": "S-D506 Auto Moveable Cutting Separator",
+    "serial": "500 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)",
+    "photo_source_note": "Brochure page 4 shows one photo for the S-D505/S-D506 pair; the same machine photo is used for both posters.",
+    "photo_source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf"
+  },
+  "seo": {
+    "filename": "Auto-Moveable-V-cut-PCB-Separator-S-D506-Tall-Frame-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "S-D506 Auto Moveable V-cut PCB Separator | Southern Machinery",
+    "title_length": 61,
+    "description": "Tall-frame automatic moveable-blade V-cut PCB separator: 0-360 mm cutting length, 80-500 mm/s, 0.2-5 mm boards, 1105 mm working height for easy board loading.",
+    "description_length": 158,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "cabinet PCB separator",
+      "tall frame depanelizer",
+      "S-D506",
+      "500 separator serial",
+      "ergonomic separator"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-D506",
+    "Machine Size": "1400x550x1105 mm",
+    "Max Cutting Length": "0-360 mm",
+    "Cutting Speed": "80-500 mm/S",
+    "PCB Thickness": "0.2-5 mm",
+    "Machine Weight": "137 kg",
+    "Power Supply": "230V/50Hz (110V/60Hz)"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p4_505.png"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D500",
+    "name": "S-D500 Desktop V-cut PCB Separator",
+    "serial": "500 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Desktop-V-cut-PCB-Separator-S-D500-Circular-Blade-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "S-D500 Desktop V-cut PCB Separator | 360mm | Southern Machinery",
+    "title_length": 63,
+    "description": "Compact circular-blade V-cut PCB separator: 360 mm cutting length, 0.2-5 mm boards, 80-500 mm/s. For LED and EMS factories replacing manual break-off.",
+    "description_length": 150,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "desktop separator",
+      "circular blade separator",
+      "S-D500",
+      "500 separator serial",
+      "LED board separator"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-D500",
+    "Max Cutting Length": "360 mm",
+    "Cutting Speed": "80 / 120 / 200 / 500 mm/S",
+    "PCB Thickness": "0.2-5 mm",
+    "Machine Size": "380*290*380 mm",
+    "Machine Weight": "29 kg",
+    "Power Supply": "230V/50Hz (110V/60Hz)"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p1_main.png",
+    "crops/p1_close.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D601",
+    "name": "S-D601 LED MCPCB Separator / Depanelizer",
+    "serial": "600 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "LED-MCPCB-Separator-Depanelizer-S-D601-Three-Pair-Beveled-Blade-SMT-EMS-Southern-Machinery.png",
+    "title": "S-D601 LED MCPCB Separator & Depanelizer | Southern Machinery",
+    "title_length": 61,
+    "description": "Three-pair bevelled-blade LED MCPCB separator: unlimited cutting length on the 2.4M base, 80-500 mm/s, 0.5-3 mm aluminium boards with no bending or LED damage.",
+    "description_length": 159,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "LED MCPCB separator",
+      "MCPCB depanelizer",
+      "bevelled blade separator",
+      "S-D601",
+      "600 separator serial",
+      "aluminium PCB separator"
+    ]
+  },
+  "key_specs": {
+    "Machine Size": "400x280x210 mm (2.4M base plate standard)",
+    "Max Cutting Length": "Unlimited",
+    "Cutting Speed": "80-500 mm/s",
+    "PCB Thickness": "0.5-3 mm",
+    "Machine Weight": "36 kg",
+    "Power Supply": "220V/50Hz, 60 W",
+    "Working Voltage": "230V/50Hz (110V/60Hz)"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p5_601close.png",
+    "crops/p5_601cad.png"
+  ]
+}

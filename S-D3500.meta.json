@@ -1,0 +1,54 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D3500",
+    "name": "S-D3500 Online Routing PCB Separator",
+    "serial": "Auto separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Online-Routing-PCB-Separator-S-D3500-CNC-Depanelizer-Stamp-PCB-SMT-EMS-Southern-Machinery.png",
+    "title": "S-D3500 Online Routing PCB Separator | Southern Machinery",
+    "title_length": 57,
+    "description": "Servo CNC online routing PCB separator: +/-0.01 mm precision, 60000 rpm air-cooled spindle, 0.8-2.0 mm bits, automatic blade change, inline load and unload.",
+    "description_length": 156,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "CNC routing separator",
+      "online router depanelizer",
+      "stamp PCB separator",
+      "S-D3500",
+      "auto separator serial",
+      "irregular outline cutting"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-D3500",
+    "Dimension": "L1750*W1100*H1850 mm (with belt)",
+    "Cutting Precision": "+/-0.01 mm",
+    "Router Bit Diameter": "0.8-2.0 mm",
+    "Spindle Speed": "60000 rpm",
+    "PCB Thickness": "0.5-2 mm (or thicker)",
+    "Power": "220V/50Hz, 5.5 KW / 1000 kg"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p9_3500.png",
+    "crops/p9_3500int.png"
+  ]
+}

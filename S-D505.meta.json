@@ -1,0 +1,52 @@
+{
+  "source_pdf": "PCB Separator serial brochure-Southern Machinery.pdf",
+  "source_pdf_path": "/Volumes/baidunetdiskworkspace/Product Presentation/Separator serial 分板机系列/PCB Separator serial brochure-Southern Machinery.pdf",
+  "product": {
+    "model": "S-D505",
+    "name": "S-D505 Auto Moveable Cutting Separator",
+    "serial": "500 separator serial",
+    "brand": "Southern Machinery",
+    "poster_template": "SP-830 Full-Auto Screen Printer (16:9)"
+  },
+  "seo": {
+    "filename": "Auto-Moveable-V-cut-PCB-Separator-S-D505-Cabinet-Depanelizer-SMT-EMS-Factory-Southern-Machinery.png",
+    "title": "S-D505 Auto Moveable V-cut PCB Separator | Southern Machinery",
+    "title_length": 61,
+    "description": "Cabinet-type automatic moveable-blade V-cut PCB separator: 0-360 mm cutting length, 80-500 mm/s, 0.2-5 mm boards, touch-screen control, 1100x730x630 mm.",
+    "description_length": 152,
+    "keywords": [
+      "PCB separator",
+      "PCB depaneling machine",
+      "V-cut PCB separator",
+      "PCB depanelizer",
+      "SMT peripheral equipment",
+      "EMS factory",
+      "Southern Machinery",
+      "smthelp",
+      "分板机",
+      "cabinet PCB separator",
+      "automatic depanelizer",
+      "S-D505",
+      "500 separator serial",
+      "touch screen separator"
+    ]
+  },
+  "key_specs": {
+    "Model": "S-D505",
+    "Machine Size": "1100x730x630 mm",
+    "Max Cutting Length": "0-360 mm",
+    "Cutting Speed": "80-500 mm/S",
+    "PCB Thickness": "0.2-5 mm",
+    "Machine Weight": "137 kg",
+    "Power Supply": "230V/50Hz (110V/60Hz)"
+  },
+  "contact": {
+    "website": "www.smthelp.com",
+    "email": "info@smthelp.com",
+    "phone": "+86 13602562576",
+    "company": "Southern Machinery (Shenzhen)"
+  },
+  "photo_reference_images": [
+    "crops/p4_505.png"
+  ]
+}
