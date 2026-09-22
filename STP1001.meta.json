@@ -1,0 +1,44 @@
+{
+  "source_pdf": "Southern Machinery Customized Feeder Nozzle Catalog V03.pdf",
+  "generated_at": "2026-09-22",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "STP1001",
+    "name": "Tray Feeder",
+    "category": "Customized SMT/THT feeding equipment",
+    "target_audience": "EMS electronic manufacturing service factories"
+  },
+  "seo": {
+    "filename": "STP1001-Tray-Feeder-Automatic-Tray-Supply-SMT-3C-Transformer-Relay-EMS-Southern-Machinery.png",
+    "title": "STP1001 Tray Feeder | Southern Machinery",
+    "description": "Automates diverse tray material supply for SMT and auxiliary machines — transformers, relays, hardware and plastic parts for 3C production.",
+    "keywords": [
+      "STP1001",
+      "tray feeder",
+      "SMT feeder",
+      "THT automation",
+      "odd-form components",
+      "automatic feeding",
+      "EMS factory automation",
+      "smart factory",
+      "Southern Machinery",
+      "SMThelp",
+      "customized feeder",
+      "component feeding",
+      "SMT line",
+      "auto insertion"
+    ],
+    "og_image_alt": "STP1001 Tray Feeder — Automates diverse tray material supply for SMT and auxiliary machines — transformers, relays, hardware and plastic parts for 3C production."
+  },
+  "key_specs": {
+    "Feeding Speed": "3 s per material",
+    "Feeding Precision": "±1 mm",
+    "Materials": "3×3×3 to 50×50×50 mm",
+    "Trays": "150×150-200×300 mm PET blister, ≤3 kg",
+    "Size / Weight": "1160×790×1530 mm / 75 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

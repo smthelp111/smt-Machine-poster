@@ -1,0 +1,44 @@
+{
+  "source_pdf": "Southern Machinery Customized Feeder Nozzle Catalog V03.pdf",
+  "generated_at": "2026-09-22",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "STF1003",
+    "name": "Tube Feeder",
+    "category": "Customized SMT/THT feeding equipment",
+    "target_audience": "EMS electronic manufacturing service factories"
+  },
+  "seo": {
+    "filename": "STF1003-Tube-Feeder-DIP-Transistor-Automatic-Feeding-SMT-Nonstandard-Robot-EMS-Southern-Machinery.png",
+    "title": "STF1003 Tube Feeder | Southern Machinery",
+    "description": "Automates feeding of tube-mounted components — DIPs, transistors and screw-lock parts — for SMT machines, non-standard equipment and robotic arms.",
+    "keywords": [
+      "STF1003",
+      "tube feeder",
+      "SMT feeder",
+      "THT automation",
+      "odd-form components",
+      "automatic feeding",
+      "EMS factory automation",
+      "smart factory",
+      "Southern Machinery",
+      "SMThelp",
+      "customized feeder",
+      "component feeding",
+      "SMT line",
+      "auto insertion"
+    ],
+    "og_image_alt": "STF1003 Tube Feeder — Automates feeding of tube-mounted components — DIPs, transistors and screw-lock parts — for SMT machines, non-standard equipment and robotic arms."
+  },
+  "key_specs": {
+    "Feeding Speed": "0.8 s",
+    "Feeding Accuracy": "±0.5 mm",
+    "Materials": "3×3×3 to 25×25×25 mm",
+    "Tube Length": "200-650 mm (PVC / aluminium)",
+    "Size / Weight": "1350×92×115 mm / 25 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

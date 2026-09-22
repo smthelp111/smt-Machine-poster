@@ -1,0 +1,44 @@
+{
+  "source_pdf": "Southern Machinery Customized Feeder Nozzle Catalog V03.pdf",
+  "generated_at": "2026-09-22",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SAF1001",
+    "name": "Axial Tape Feeder",
+    "category": "Customized SMT/THT feeding equipment",
+    "target_audience": "EMS electronic manufacturing service factories"
+  },
+  "seo": {
+    "filename": "SAF1001-Axial-Tape-Feeder-Automatic-Insertion-SMT-THT-Resistor-Diode-EMS-Southern-Machinery.png",
+    "title": "SAF1001 Axial Tape Feeder | Southern Machinery",
+    "description": "Integrates with SMT machines and non-standard equipment to auto-insert axial components — resistors, diodes and braided jumpers — saving labor and boosting ut",
+    "keywords": [
+      "SAF1001",
+      "axial tape feeder",
+      "SMT feeder",
+      "THT automation",
+      "odd-form components",
+      "automatic feeding",
+      "EMS factory automation",
+      "smart factory",
+      "Southern Machinery",
+      "SMThelp",
+      "customized feeder",
+      "component feeding",
+      "SMT line",
+      "auto insertion"
+    ],
+    "og_image_alt": "SAF1001 Axial Tape Feeder — Integrates with SMT machines and non-standard equipment to auto-insert axial components — resistors, diodes and braided jumpers — saving labor and boosting utilization."
+  },
+  "key_specs": {
+    "Feeding Speed": "0.8 s",
+    "Feeding Accuracy": "±0.3 mm",
+    "Materials": "Taped resistors / triodes / jump wires, 3×3-6×20 mm",
+    "Tape Width": "35 / 64 / 92 mm (custom)",
+    "Size / Weight": "730×95×212 mm / 8 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

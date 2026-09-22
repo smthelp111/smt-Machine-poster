@@ -1,0 +1,44 @@
+{
+  "source_pdf": "Southern Machinery Customized Feeder Nozzle Catalog V03.pdf",
+  "generated_at": "2026-09-22",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SBF2002",
+    "name": "Belt Feeder",
+    "category": "Customized SMT/THT feeding equipment",
+    "target_audience": "EMS electronic manufacturing service factories"
+  },
+  "seo": {
+    "filename": "SBF2002-Belt-Feeder-Bulk-Material-NG-Return-Multi-Pin-Components-SMT-EMS-Southern-Machinery.png",
+    "title": "SBF2002 Belt Feeder | Southern Machinery",
+    "description": "Automates bulk material feeding with material selection and NG return — compact, quiet and compatible with any placement machine.",
+    "keywords": [
+      "SBF2002",
+      "belt feeder",
+      "SMT feeder",
+      "THT automation",
+      "odd-form components",
+      "automatic feeding",
+      "EMS factory automation",
+      "smart factory",
+      "Southern Machinery",
+      "SMThelp",
+      "customized feeder",
+      "component feeding",
+      "SMT line",
+      "auto insertion"
+    ],
+    "og_image_alt": "SBF2002 Belt Feeder — Automates bulk material feeding with material selection and NG return — compact, quiet and compatible with any placement machine."
+  },
+  "key_specs": {
+    "Feeding Speed": "1.5-2 s",
+    "Feeding Accuracy": "±1 mm",
+    "Materials": "3×3×3 to 20×20×20 mm",
+    "Drive": "Motor belt + direct vibration, 500 rpm",
+    "Size / Weight": "850×140×260 mm / 12 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

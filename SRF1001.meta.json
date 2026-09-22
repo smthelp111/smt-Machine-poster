@@ -1,0 +1,44 @@
+{
+  "source_pdf": "Southern Machinery Customized Feeder Nozzle Catalog V03.pdf",
+  "generated_at": "2026-09-22",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SRF1001",
+    "name": "Radial Tape Feeder",
+    "category": "Customized SMT/THT feeding equipment",
+    "target_audience": "EMS electronic manufacturing service factories"
+  },
+  "seo": {
+    "filename": "SRF1001-Radial-Tape-Feeder-Auto-Forming-Cutting-Bending-SMT-DIP-Insertion-EMS-Southern-Machinery.png",
+    "title": "SRF1001 Radial Tape Feeder | Southern Machinery",
+    "description": "Automates feeding, shaping, cutting and bending of radial components and integrates with SMT machines for automatic DIP insertion.",
+    "keywords": [
+      "SRF1001",
+      "radial tape feeder",
+      "SMT feeder",
+      "THT automation",
+      "odd-form components",
+      "automatic feeding",
+      "EMS factory automation",
+      "smart factory",
+      "Southern Machinery",
+      "SMThelp",
+      "customized feeder",
+      "component feeding",
+      "SMT line",
+      "auto insertion"
+    ],
+    "og_image_alt": "SRF1001 Radial Tape Feeder — Automates feeding, shaping, cutting and bending of radial components and integrates with SMT machines for automatic DIP insertion."
+  },
+  "key_specs": {
+    "Feeding Accuracy": "±0.2 mm",
+    "Cycle Time": "1 s per action",
+    "Materials": "Caps 2×2×3 to 15×15×30 mm, wire 0.3-1.0 mm",
+    "Tape Hole Pitch": "12.7 mm or 15 mm",
+    "Size / Weight": "720×92×165 mm / 10 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

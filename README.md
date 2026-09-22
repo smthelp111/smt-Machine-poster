@@ -177,3 +177,113 @@ SMT产品PPT转营销海报poster
 - **Meta Description**: Automate reel terminal cutting & feeding with the SRT7001: 0.8 s per material, ±0.5 mm precision, PLC control with IO or self-control, shortage alarms. High compatibility with SMT/THT machines and robot arms. Built for EMS factories.
 - **Tags**: reel terminal feeder, terminal feeder, automated terminal feeding, reel terminal cutting, SMT feeder, THT automation, terminal insertion machine, SRT7001, smart factory feeder, EMS factory automation, Southern Machinery, SMThelp, odd-form feeding, component feeding system, labor saving SMT
 - **Full metadata**: `SRT7001-Reel-Terminal-Feeder-Automated-Cutting-Feeding-0-8s-Plus-0-5mm-SMT-THT-EMS-Southern-Machinery.meta.json`
+
+## Customized Feeder & Nozzle Series (from Southern Machinery Customized Feeder Nozzle Catalog V03.pdf)
+
+### SAF1001 — Axial Tape Feeder
+
+- **File**: `SAF1001-Axial-Tape-Feeder-Automatic-Insertion-SMT-THT-Resistor-Diode-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 2)
+- **SEO Title**: SAF1001 Axial Tape Feeder | Southern Machinery
+- **Meta Description**: Integrates with SMT machines and non-standard equipment to auto-insert axial components — resistors, diodes and braided jumpers — saving labor and boosting ut
+- **Tags**: SAF1001, axial tape feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SAF1001.meta.json`
+
+### SRF1001 — Radial Tape Feeder
+
+- **File**: `SRF1001-Radial-Tape-Feeder-Auto-Forming-Cutting-Bending-SMT-DIP-Insertion-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 3)
+- **SEO Title**: SRF1001 Radial Tape Feeder | Southern Machinery
+- **Meta Description**: Automates feeding, shaping, cutting and bending of radial components and integrates with SMT machines for automatic DIP insertion.
+- **Tags**: SRF1001, radial tape feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SRF1001.meta.json`
+
+### STF1003 — Tube Feeder
+
+- **File**: `STF1003-Tube-Feeder-DIP-Transistor-Automatic-Feeding-SMT-Nonstandard-Robot-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 4)
+- **SEO Title**: STF1003 Tube Feeder | Southern Machinery
+- **Meta Description**: Automates feeding of tube-mounted components — DIPs, transistors and screw-lock parts — for SMT machines, non-standard equipment and robotic arms.
+- **Tags**: STF1003, tube feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `STF1003.meta.json`
+
+### SBF1001 — Vibratory Bowl Feeder
+
+- **File**: `SBF1001-Vibratory-Bowl-Feeder-Bulk-Component-Sorting-Polarity-SMT-THT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 5)
+- **SEO Title**: SBF1001 Vibratory Bowl Feeder | Southern Machinery
+- **Meta Description**: Automates bulk component feeding for SMT/THT machines — sorting, screening, cutting and shaping materials for robotic integration.
+- **Tags**: SBF1001, vibratory bowl feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SBF1001.meta.json`
+
+### SBF2002 — Belt Feeder
+
+- **File**: `SBF2002-Belt-Feeder-Bulk-Material-NG-Return-Multi-Pin-Components-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 6)
+- **SEO Title**: SBF2002 Belt Feeder | Southern Machinery
+- **Meta Description**: Automates bulk material feeding with material selection and NG return — compact, quiet and compatible with any placement machine.
+- **Tags**: SBF2002, belt feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SBF2002.meta.json`
+
+### SLF1001 — Label Feeder
+
+- **File**: `SLF1001-Label-Feeder-QR-Label-MES-FPC-Reinforcement-Robot-Integration-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 7)
+- **SEO Title**: SLF1001 Label Feeder | Southern Machinery
+- **Meta Description**: Automates placement of QR labels and roll materials for MES traceability and FPC reinforcement — saving labor through robot integration.
+- **Tags**: SLF1001, label feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SLF1001.meta.json`
+
+### SJF1001 — Jumper Wire Feeder
+
+- **File**: `SJF1001-Jumper-Wire-Feeder-Rolled-Copper-Wire-Waste-Free-Cutting-Forming-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 8)
+- **SEO Title**: SJF1001 Jumper Wire Feeder | Southern Machinery
+- **Meta Description**: Automates waste-free cutting, forming and feeding of rolled copper jumper wires with rapid 5-minute mold changes.
+- **Tags**: SJF1001, jumper wire feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SJF1001.meta.json`
+
+### STP1001 — Tray Feeder
+
+- **File**: `STP1001-Tray-Feeder-Automatic-Tray-Supply-SMT-3C-Transformer-Relay-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 9)
+- **SEO Title**: STP1001 Tray Feeder | Southern Machinery
+- **Meta Description**: Automates diverse tray material supply for SMT and auxiliary machines — transformers, relays, hardware and plastic parts for 3C production.
+- **Tags**: STP1001, tray feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `STP1001.meta.json`
+
+### SSPC101 — Solder Chip Feeder
+
+- **File**: `SSPC101-Solder-Chip-Feeder-Coiled-Tin-Sheet-Wire-Auto-Cutting-Feeding-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 10)
+- **SEO Title**: SSPC101 Solder Chip Feeder | Southern Machinery
+- **Meta Description**: Automates cutting and feeding of coiled tin sheet and solder wire for SMT machines and automated lines.
+- **Tags**: SSPC101, solder chip feeder, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SSPC101.meta.json`
+
+### Special Nozzles — Gripper & Custom Nozzles
+
+- **File**: `Special-Application-Nozzles-Gripper-Odd-Form-Pick-Place-THT-Hybrid-Circuit-SMT-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 12)
+- **SEO Title**: Special Nozzles Gripper & Custom Nozzles | Southern Machinery
+- **Meta Description**: Southern Machinery special nozzles — gripper and custom types for odd-form, THT and hybrid-circuit pick & place.
+- **Tags**: Special Nozzles, gripper & custom nozzles, SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SpecialNozzles.meta.json`
+
+### SIS7000A — Smart SMT Reel Storage Rack (7-in)
+
+- **File**: `SIS7000A-Smart-SMT-Reel-Storage-Rack-1400-Reels-Traceability-Inventory-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 14)
+- **SEO Title**: SIS7000A Smart SMT Reel Storage Rack (7-in) | Southern Machinery
+- **Meta Description**: Smart SMT reel storage rack simplifies receiving, storage and retrieval with full traceability and automatic stock monitoring.
+- **Tags**: SIS7000A, smart smt reel storage rack (7-in), SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SIS7000A.meta.json`
+
+### SIS4000A — Smart SMT Reel Storage Rack (13-in)
+
+- **File**: `SIS4000A-Smart-SMT-Reel-Storage-Rack-400-Reels-13-inch-Traceability-EMS-Southern-Machinery.png` (16:9, 2K)
+- **Source**: `Southern Machinery Customized Feeder Nozzle Catalog V03.pdf` (page 14)
+- **SEO Title**: SIS4000A Smart SMT Reel Storage Rack (13-in) | Southern Machinery
+- **Meta Description**: Smart SMT reel storage rack for 13-inch carriers — simplifying receiving, storage and retrieval with full traceability.
+- **Tags**: SIS4000A, smart smt reel storage rack (13-in), SMT feeder, THT automation, odd-form components, automatic feeding, EMS factory automation, smart factory, Southern Machinery, SMThelp, customized feeder, component feeding, SMT line, auto insertion
+- **Full metadata**: `SIS4000A.meta.json`

@@ -1,0 +1,44 @@
+{
+  "source_pdf": "Southern Machinery Customized Feeder Nozzle Catalog V03.pdf",
+  "generated_at": "2026-09-22",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "product": {
+    "model": "SSPC101",
+    "name": "Solder Chip Feeder",
+    "category": "Customized SMT/THT feeding equipment",
+    "target_audience": "EMS electronic manufacturing service factories"
+  },
+  "seo": {
+    "filename": "SSPC101-Solder-Chip-Feeder-Coiled-Tin-Sheet-Wire-Auto-Cutting-Feeding-SMT-EMS-Southern-Machinery.png",
+    "title": "SSPC101 Solder Chip Feeder | Southern Machinery",
+    "description": "Automates cutting and feeding of coiled tin sheet and solder wire for SMT machines and automated lines.",
+    "keywords": [
+      "SSPC101",
+      "solder chip feeder",
+      "SMT feeder",
+      "THT automation",
+      "odd-form components",
+      "automatic feeding",
+      "EMS factory automation",
+      "smart factory",
+      "Southern Machinery",
+      "SMThelp",
+      "customized feeder",
+      "component feeding",
+      "SMT line",
+      "auto insertion"
+    ],
+    "og_image_alt": "SSPC101 Solder Chip Feeder — Automates cutting and feeding of coiled tin sheet and solder wire for SMT machines and automated lines."
+  },
+  "key_specs": {
+    "Feeding Speed": "1.2 s per material",
+    "Feeding Precision": "±0.5 mm",
+    "Materials": "Solder wire / sheet, width 1-16 mm, 0.1-1 mm thick",
+    "Power": "24V, 1.5A/3A, 0.4-0.6 MPa",
+    "Size / Weight": "540×115×230 mm / 7 kg"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}
