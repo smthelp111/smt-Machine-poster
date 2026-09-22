@@ -8,7 +8,8 @@
     "format": "portrait infographic poster",
     "pixels": "1536x2752",
     "aspect_ratio": "0.558",
-    "watermark": "NotebookLM"
+    "watermark": null,
+    "watermark_removed": "NotebookLM corner watermark removed 2026-09-22 by cloning adjacent background pixels (no crop, no resample)"
   },
   "product": {
     "model": "SME-5500",
