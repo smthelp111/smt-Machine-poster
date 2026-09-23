@@ -1,0 +1,65 @@
+{
+  "source_pdf": "In-house product poster — S-XF52P Pneumatic Wire Stripping Machine (AI-assisted artwork generated 2026-09-23; spec figures verified against the in-house deck S-XF52P_Pneumatic_Wire_Stripping_Machine_Southern_Machinery_Arial_Final.pptx, slide 7 Technical Specifications)",
+  "generated_at": "2026-09-23",
+  "contributed_at": "2026-09-23",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "landscape product poster — hero layout with three spec tiles and four numbered detail callouts",
+    "pixels": "1448x1086",
+    "aspect_ratio": "1.333",
+    "watermark": null
+  },
+  "layout_variant": "A — headline, three key spec tiles, then four numbered detail callouts (01 90° V-blade, 02 adjustable stripping length, 03 pneumatic control, 04 precision stripping)",
+  "sibling_layout": "pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-alt-layout-smt-tht-ems-southern-machinery.png",
+  "product": {
+    "model": "S-XF52P",
+    "name": "Pneumatic Wire Stripping Machine",
+    "category": "Bench-top pneumatic wire-end stripping machine for wire harness, cable and terminal preparation",
+    "target_audience": "Wire harness and cable processing, EMS factories, SMT/THT assembly lines, panel and control cabinet builders"
+  },
+  "seo": {
+    "filename": "pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-smt-tht-ems-southern-machinery.png",
+    "title": "Pneumatic Wire Stripping Machine S-XF52P | 0.03–2.08 mm², 18 mm Strip | Southern Machinery",
+    "description": "Southern Machinery S-XF52P bench-top pneumatic wire stripping machine: 0.03–2.08 mm² (32–14 AWG) wire range, up to 3.2 mm outer diameter, 18 mm maximum strip length and approx. 0.3 s action time. Pure pneumatic drive — runs with no electrical power, 0.55–0.8 MPa air supply, 0.01 mm diameter-setting accuracy. www.smthelp.com",
+    "keywords": [
+      "S-XF52P",
+      "pneumatic wire stripping machine",
+      "wire stripping machine",
+      "bench-top wire stripper",
+      "wire end preparation",
+      "cable stripping machine",
+      "32-14 AWG wire stripper",
+      "no electricity wire stripper",
+      "air powered wire stripper",
+      "wire harness processing",
+      "cable and terminal preparation",
+      "SMT",
+      "THT",
+      "EMS factory equipment",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "S-XF52P Pneumatic Wire Stripping Machine poster — compact bench-top pneumatic stripper for repetitive wire-end preparation, 0.03–2.08 mm² wire range, 18 mm strip length, approx. 0.3 s action time, no electricity required."
+  },
+  "key_specs": {
+    "Model": "S-XF52P",
+    "Machine Type": "Pneumatic wire stripping machine (bench-top)",
+    "Applicable Wire Cross Section": "0.03–2.08 mm² (32–14 AWG)",
+    "Maximum Wire Outer Diameter": "3.2 mm",
+    "Stripping Processing Reference": "Full strip: 0.5 mm · Partial strip: 2 mm",
+    "Diameter-Setting Accuracy": "0.01 mm",
+    "Maximum Stripping Length": "18 mm",
+    "Processing Time": "Approx. 0.3 s per piece",
+    "Machine Dimensions (L × W × H)": "265 × 70 × 135 mm",
+    "Net / Gross Weight": "Approx. 2.0 kg / 2.4 kg",
+    "Air Supply": "0.55–0.8 MPa",
+    "Drive": "Pure pneumatic — no electrical power required",
+    "Blade": "90° V-shaped blade for clean insulation cutting"
+  },
+  "spec_source": "S-XF52P_Pneumatic_Wire_Stripping_Machine_Southern_Machinery_Arial_Final.pptx (slide 7, Technical Specifications). All figures above are taken from that in-house deck; no unverified numbers are published here.",
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

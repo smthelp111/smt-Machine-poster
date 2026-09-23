@@ -931,3 +931,29 @@ One poster per product model. Source: `/Volumes/.../Product Presentation/SMThelp
 - **Key Specs**: Model: SAC330 · Max PCB Size: 50×50 – 445×330 mm · Machine Dimensions: 1500 × 850 × 1300 mm · Telescopic Length: 850 mm · Weight: 250 KG · Power: AC100/220/230V · Max 100W
 - **Tags**: EMS factory, PCB handling, SAC330, SMT peripheral equipment, Southern Machinery, THT insertion line, gate conveyor, pass through conveyor, smt, smt telescopic gate conveyor, smthelp, telescopic conveyor, telescopic gate conveyor
 - **Full metadata**: `telescopic-gate-conveyor-sac330-automatic-pass-through-line-crossing-smt-ems-southern-machinery.meta.json`
+
+## Wire Stripping Machine Series (contributed by leoliao / smthelp159, 2026-09-23)
+
+One product, two alternative poster layouts. Spec figures were verified against the in-house deck `S-XF52P_Pneumatic_Wire_Stripping_Machine_Southern_Machinery_Arial_Final.pptx` (slide 7, Technical Specifications) before publication.
+
+### S-XF52P — Pneumatic Wire Stripping Machine
+
+- **File**: `pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-smt-tht-ems-southern-machinery.png` (4:3, 1448x1086)
+- **Source**: In-house product poster — S-XF52P Pneumatic Wire Stripping Machine (AI-assisted artwork, 2026-09-23)
+- **SEO Title**: Pneumatic Wire Stripping Machine S-XF52P | 0.03–2.08 mm², 18 mm Strip | Southern Machinery
+- **Meta Description**: Southern Machinery S-XF52P bench-top pneumatic wire stripping machine: 0.03–2.08 mm² (32–14 AWG) wire range, up to 3.2 mm outer diameter, 18 mm maximum strip length and approx. 0.3 s action time. Pure pneumatic drive — runs with no electrical power, 0.55–0.8 MPa air supply, 0.01 mm diameter-setting accuracy. www.smthelp.com
+- **Key Specs**: Model: S-XF52P · Wire Cross Section: 0.03–2.08 mm² (32–14 AWG) · Max Wire O.D.: 3.2 mm · Max Strip Length: 18 mm · Processing Time: Approx. 0.3 s · Diameter-Setting Accuracy: 0.01 mm · Machine Dimensions: 265 × 70 × 135 mm · Net / Gross Weight: Approx. 2.0 kg / 2.4 kg · Air Supply: 0.55–0.8 MPa · Drive: Pure pneumatic, no electricity required
+- **Tags**: S-XF52P, pneumatic wire stripping machine, wire stripping machine, bench-top wire stripper, wire end preparation, cable stripping machine, 32-14 AWG wire stripper, no electricity wire stripper, air powered wire stripper, wire harness processing, cable and terminal preparation, SMT, THT, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-smt-tht-ems-southern-machinery.meta.json`
+
+### S-XF52P — Pneumatic Wire Stripping Machine (alternative two-panel layout)
+
+- **File**: `pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-alt-layout-smt-tht-ems-southern-machinery.png` (4:3, 1448x1086)
+- **Source**: Same S-XF52P artwork set, alternative two-panel layout (AI-assisted artwork, 2026-09-23)
+- **SEO Title**: S-XF52P Pneumatic Wire Stripping Machine | Compact Bench-top Wire Stripper | Southern Machinery
+- **Meta Description**: Alternative two-panel layout of the Southern Machinery S-XF52P pneumatic wire stripping machine poster: compact bench-top stripper for repetitive wire-end preparation, 0.03–2.08 mm² (32–14 AWG), 18 mm maximum strip length, approx. 0.3 s action time, pneumatic drive with no electricity required. www.smthelp.com
+- **Key Specs**: Model: S-XF52P · Wire Cross Section: 0.03–2.08 mm² (32–14 AWG) · Max Wire O.D.: 3.2 mm · Max Strip Length: 18 mm · Processing Time: Approx. 0.3 s · Machine Dimensions: 265 × 70 × 135 mm · Air Supply: 0.55–0.8 MPa · Benefits: stable performance, precision adjustment, wide applications, durable and reliable
+- **Tags**: S-XF52P, pneumatic wire stripping machine, compact wire stripper, bench-top wire stripper, wire end preparation, cable stripping, strand stripping machine, 32-14 AWG, harness processing equipment, air driven wire stripper, SMT, THT, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-alt-layout-smt-tht-ems-southern-machinery.meta.json`
+
+> **Note on formats**: the S-XF52P entries are 4:3 landscape posters (1448×1086), not 16:9. They are rendered with the `tall` card class in `index.html` so the full artwork is shown instead of being cropped to 16:9.
