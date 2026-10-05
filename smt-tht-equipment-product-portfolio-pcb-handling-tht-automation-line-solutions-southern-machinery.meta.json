@@ -1,0 +1,63 @@
+{
+  "source_pdf": "In-house portfolio artwork `Southern Machinery SMT THT machine.png` with the matching in-house one-page PDF `Southern Machinery SMT THT Machine.pdf`, page 1 — the same page carries this SMT & THT Equipment Product Portfolio overview.",
+  "generated_at": "2026-07-20",
+  "contributed_at": "2026-10-05",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "landscape company portfolio poster — six numbered equipment sections laid out over one sheet, with brand bar, solution-provider strapline and website footer",
+    "pixels": "1672x941",
+    "aspect_ratio": "1.777",
+    "watermark": null
+  },
+  "sibling_asset": "SMT-THT-Automation-Product-Portfolio-Feeder-Nozzle-Reel-Storage-A4-300dpi-Southern-Machinery.png (A4 print master of the feeding-automation portfolio already in this library). This sheet is the wider six-section company portfolio and does not repeat that content.",
+  "product": {
+    "model": "",
+    "name": "SMT & THT Equipment Product Portfolio",
+    "category": "Company-wide SMT and THT equipment overview — PCB handling, PCB cutting/separating, THT automation, SMT supporting equipment, production line solutions and cleaning/auxiliary equipment",
+    "target_audience": "EMS factories, SMT/THT line planners, electronics manufacturers looking for a single-source automation and supporting-equipment supplier, agent and distributor enquiries"
+  },
+  "seo": {
+    "filename": "smt-tht-equipment-product-portfolio-pcb-handling-tht-automation-line-solutions-southern-machinery.png",
+    "title": "SMT & THT Equipment Product Portfolio | PCB Handling, THT Automation & Line Solutions | Southern Machinery",
+    "description": "Southern Machinery SMT & THT Equipment Product Portfolio: complete automation and supporting equipment for electronics manufacturing — PCB handling (SLD3300 magazine loader, SMT buffer conveyor), PCB cutting and separating (S380AJ visual multi-function separator, dust collector), THT automation (S-W5A50C wave soldering machine, S7900 odd-form insert machine), SMT supporting equipment (S-8800 lead-free reflow oven, S-A0600C AI AOI, SM8660 3D SPI, smart reel storage silo), S-800S auto pick & place production line, and SME-350MB PCBA inline semi-aqueous cleaning machine. www.smthelp.com",
+    "keywords": [
+      "SMT THT equipment",
+      "product portfolio",
+      "electronics manufacturing equipment",
+      "PCB handling equipment",
+      "PCB separator machine",
+      "THT automation equipment",
+      "wave soldering machine",
+      "odd form insert machine",
+      "SMT supporting equipment",
+      "lead-free reflow oven",
+      "automatic optical inspection machine",
+      "3D SPI solder paste inspection",
+      "smart reel storage silo",
+      "auto pick and place production line",
+      "PCBA inline cleaning machine",
+      "SMT",
+      "THT",
+      "EMS factory equipment",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "SMT & THT Equipment Product Portfolio poster from Southern Machinery — six sections covering PCB handling, PCB cutting and separating, THT automation, SMT supporting equipment, production line solutions and cleaning/auxiliary equipment."
+  },
+  "key_specs": {},
+  "product_lines_shown": {
+    "1. PCB Handling Equipment": "SLD3300 PCB magazine loader · SMT buffer conveyor",
+    "2. PCB Cutting / Separator Equipment": "S380AJ visual multi-function smart curved & V-cut PCB separator machine · dust collector",
+    "3. THT Automation Equipment": "S-W5A50C wave soldering machine · S7900 odd-form insert machine",
+    "4. SMT Supporting Equipment": "S-8800 lead-free reflow oven · S-A0600C AI automatic optical inspection machine · SM8660 3D SPI machine for solder paste inspection · smart reel storage silo",
+    "5. Production Line Solutions": "S-800S auto pick & place production line",
+    "6. Cleaning / Auxiliary Equipment": "SME-350MB PCBA inline semi-aqueous cleaning machine",
+    "Solution claims printed on the sheet": "Integrated line solution · high precision & stability · high efficiency & productivity · reliable quality assurance"
+  },
+  "spec_source": "No numeric specifications are published for this sheet: it is an overview portfolio and the artwork carries equipment names only. Model numbers above were read from the artwork and cross-checked against the same in-house PDF page.",
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

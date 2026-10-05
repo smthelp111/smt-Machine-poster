@@ -1,0 +1,67 @@
+{
+  "source_pdf": "In-house product poster artwork `S-300B Fully Automatic High-Speed Molding and Taping Machine2.png` (landscape reliability poster, 2752x1536) with the matching in-house datasheet `S-300B Fully Automatic High-Speed Molding and Taping Machine2.pdf`, page 1 — the same page carries the poster artwork and the Technical Specifications table used below.",
+  "generated_at": "2026-01-13",
+  "contributed_at": "2026-10-05",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "landscape product poster — headline, framed machine photo with 15+ years badge, three engineering highlight blocks and a bottom contact bar",
+    "pixels": "2752x1536",
+    "aspect_ratio": "1.792",
+    "watermark": null
+  },
+  "sibling_asset": "S-300B-Smart-Brain-Automatic-Molding-Taping-Machine-PLC-Touch-Screen-Control-SMT-THT-EMS-Southern-Machinery.png (portrait 'Smart Brain' control poster for the same machine, already in this library)",
+  "product": {
+    "model": "S-300B",
+    "name": "Fully Automatic High-Speed Molding and Taping Machine",
+    "category": "Automatic axial/radial component molding and taping (lead forming and taping) machine for THT and EMS production lines",
+    "target_audience": "EMS factories, THT/DIP assembly lines, axial and radial component preparation and taping departments, manufacturers replacing DT-300BSTD-class machines"
+  },
+  "seo": {
+    "filename": "molding-taping-machine-s-300b-15-year-service-life-reliability-smt-tht-ems-southern-machinery.png",
+    "title": "Molding and Taping Machine S-300B | 180±20 PCS/min, 15+ Year Service Life | Southern Machinery",
+    "description": "Southern Machinery S-300B fully automatic high-speed molding and taping machine: 180±20 PCS/minute peak speed, imported precision cams ground to 0.01 mm, modern servo control replacing the traditional clutch, and a design service life of 15+ years. Corrosion-resistant imported aluminium frame, 4-5 kg/cm² air pressure, 2200x1200x1500 mm. www.smthelp.com",
+    "keywords": [
+      "S-300B",
+      "molding and taping machine",
+      "component taping machine",
+      "lead forming and taping machine",
+      "axial component taping machine",
+      "automatic molding machine",
+      "180 pcs per minute taping machine",
+      "servo control taping machine",
+      "imported precision cam",
+      "15 year service life machine",
+      "aluminium frame machine",
+      "low maintenance taping machine",
+      "THT component preparation",
+      "SMT",
+      "THT",
+      "EMS factory equipment",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "S-300B molding and taping machine poster — Built to Last: The S-300B's Promise of 15+ Years of Reliability, with imported precision cams, advanced servo control, corrosion-resistant aluminium frame and 180±20 PCS/minute peak speed."
+  },
+  "key_specs": {
+    "Model": "S-300B",
+    "Machine Type": "Fully automatic high-speed molding and taping machine",
+    "Production Capacity": "180±20 PCS/minute",
+    "Power Supply": "220V / 50Hz / 1.8kW",
+    "Air Pressure": "4–5 kg/cm²",
+    "Processed Product Diameter": "Ø6 – Ø10 mm",
+    "Formed Lead Pitch": "2.5 mm, 3.5 mm, 5.0 mm (customizable)",
+    "Hole Pitch (Standard)": "12.7 mm",
+    "Taping Height": "17 mm – 21 mm",
+    "Dimensions (L × W × H)": "2200 × 1200 × 1500 mm",
+    "Weight": "700 – 900 kg",
+    "Cam Grinding Accuracy": "0.01 mm (imported cams) — printed in the artwork and in the datasheet narrative",
+    "Design Service Life": "15+ years — manufacturer's service-life claim printed in the artwork and in the datasheet narrative",
+    "Frame": "Corrosion-resistant imported aluminium frame"
+  },
+  "spec_source": "S-300B Fully Automatic High-Speed Molding and Taping Machine2.pdf, page 1 Technical Specifications table (Production Capacity, Power Supply, Air Pressure, Processed Product Diameter, Formed Lead Pitch, Hole Pitch, Taping Height, Dimensions, Weight). Cam grinding accuracy and the 15+ year service-life claim are the manufacturer's own printed statements in the same in-house artwork; they are marketing claims, not third-party measured data.",
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}

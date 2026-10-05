@@ -957,3 +957,59 @@ One product, two alternative poster layouts. Spec figures were verified against 
 - **Full metadata**: `pneumatic-wire-stripping-machine-s-xf52p-bench-top-wire-end-preparation-alt-layout-smt-tht-ems-southern-machinery.meta.json`
 
 > **Note on formats**: the S-XF52P entries are 4:3 landscape posters (1448×1086), not 16:9. They are rendered with the `tall` card class in `index.html` so the full artwork is shown instead of being cropped to 16:9.
+
+## Company Portfolio & Reliability Posters (contributed by leoliao / smthelp159, 2026-10-05)
+
+Two further in-house posters found on the design workstation and registered here. Both were verified against their matching in-house PDFs before publication.
+
+### S-300B — Built to Last: 15+ Years of Reliability
+
+- **File**: `molding-taping-machine-s-300b-15-year-service-life-reliability-smt-tht-ems-southern-machinery.png` (16:9, 2752x1536)
+- **Source**: In-house artwork `S-300B Fully Automatic High-Speed Molding and Taping Machine2.png`, same page as the `...Machine2.pdf` datasheet
+- **SEO Title**: Molding and Taping Machine S-300B | 180±20 PCS/min, 15+ Year Service Life | Southern Machinery
+- **Meta Description**: Southern Machinery S-300B fully automatic high-speed molding and taping machine: 180±20 PCS/minute peak speed, imported precision cams ground to 0.01 mm, modern servo control replacing the traditional clutch, and a design service life of 15+ years. Corrosion-resistant imported aluminium frame, 4-5 kg/cm² air pressure, 2200x1200x1500 mm. www.smthelp.com
+- **Key Specs**: Model: S-300B · Production Capacity: 180±20 PCS/minute · Power Supply: 220V / 50Hz / 1.8kW · Air Pressure: 4–5 kg/cm² · Processed Product Diameter: Ø6 – Ø10 mm · Formed Lead Pitch: 2.5 / 3.5 / 5.0 mm (customizable) · Hole Pitch (Standard): 12.7 mm · Taping Height: 17–21 mm · Dimensions (L×W×H): 2200 × 1200 × 1500 mm · Weight: 700–900 kg · Cam Grinding Accuracy: 0.01 mm · Design Service Life: 15+ years
+- **Spec source**: `S-300B Fully Automatic High-Speed Molding and Taping Machine2.pdf`, page 1 Technical Specifications table. The 0.01 mm cam accuracy and the 15+ year service life are the manufacturer's own printed statements in the same in-house artwork (marketing claims, not third-party measured data).
+- **Tags**: S-300B, molding and taping machine, component taping machine, lead forming and taping machine, axial component taping machine, 180 pcs per minute taping machine, servo control taping machine, imported precision cam, 15 year service life machine, THT component preparation, SMT, THT, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `molding-taping-machine-s-300b-15-year-service-life-reliability-smt-tht-ems-southern-machinery.meta.json`
+- **Sibling poster**: the portrait “Smart Brain” control poster for the same machine is already published as `S-300B-Smart-Brain-Automatic-Molding-Taping-Machine-PLC-Touch-Screen-Control-SMT-THT-EMS-Southern-Machinery.png`.
+
+### SMT & THT Equipment Product Portfolio (six sections)
+
+- **File**: `smt-tht-equipment-product-portfolio-pcb-handling-tht-automation-line-solutions-southern-machinery.png` (16:9, 1672x941)
+- **Source**: In-house artwork `Southern Machinery SMT THT machine.png`, page 1 of `Southern Machinery SMT THT Machine.pdf`
+- **SEO Title**: SMT & THT Equipment Product Portfolio | PCB Handling, THT Automation & Line Solutions | Southern Machinery
+- **Meta Description**: Southern Machinery SMT & THT Equipment Product Portfolio: complete automation and supporting equipment for electronics manufacturing — PCB handling (SLD3300 magazine loader, SMT buffer conveyor), PCB cutting and separating (S380AJ visual multi-function separator, dust collector), THT automation (S-W5A50C wave soldering machine, S7900 odd-form insert machine), SMT supporting equipment (S-8800 lead-free reflow oven, S-A0600C AI AOI, SM8660 3D SPI, smart reel storage silo), S-800S auto pick & place production line, and SME-350MB PCBA inline semi-aqueous cleaning machine. www.smthelp.com
+- **Key Specs**: none published — this is an overview portfolio and the artwork carries equipment names only. Product lines shown: (1) PCB handling — SLD3300, SMT buffer conveyor · (2) PCB cutting/separator — S380AJ, dust collector · (3) THT automation — S-W5A50C, S7900 · (4) SMT supporting — S-8800, S-A0600C, SM8660, smart reel storage silo · (5) production line solutions — S-800S · (6) cleaning/auxiliary — SME-350MB
+- **Tags**: SMT THT equipment, product portfolio, electronics manufacturing equipment, PCB handling equipment, PCB separator machine, THT automation equipment, wave soldering machine, odd form insert machine, lead-free reflow oven, automatic optical inspection machine, 3D SPI solder paste inspection, smart reel storage silo, auto pick and place production line, PCBA inline cleaning machine, SMT, THT, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `smt-tht-equipment-product-portfolio-pcb-handling-tht-automation-line-solutions-southern-machinery.meta.json`
+- **Sibling poster**: the A4 print master of the feeding-automation portfolio is already published as `SMT-THT-Automation-Product-Portfolio-Feeder-Nozzle-Reel-Storage-A4-300dpi-Southern-Machinery.png`.
+
+> **Note on formats**: the S-300B reliability sheet is 2752×1536 (ratio 1.792) and the portfolio sheet is 1672×941. The S-300B sheet is rendered with the `tall` card class in `index.html` because the default 16:9 `object-fit:cover` crop would clip the full-width headline and the logo at the left edge; the 1672×941 portfolio sheet matches the other 16:9 cards and uses the default treatment.
+
+## ESD Access Control Series — SEC900 (contributed by leoliao / smthelp159, 2026-10-05)
+
+One product range, two alternative poster layouts (clean studio product shots vs. on-site installation photos). Spec figures were verified against the in-house deck `SEC900 Intelligent ESD Access Control System Turnstile Gate.pptx` (slide 4 Product Types, slide 5 additional types, slide 8 tester parameters) before publication.
+
+### SEC900 — ESD Access Control Gate Type Portfolio
+
+- **File**: `esd-access-control-turnstile-gate-sec900-tripod-turnstile-flap-barrier-swing-gate-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: In-house marketing one-pager `ig_06301a4bf0d21443016a47d4ad0ab8819bb052cc8680aa8fdb.png` (clean studio product shots, 2026-07-03)
+- **SEO Title**: ESD Access Control Turnstile Gate SEC900 | Tripod Turnstile, Flap Barrier, Swing Gate | Southern Machinery
+- **Meta Description**: Southern Machinery SEC900 intelligent ESD access control system gate type portfolio: ESD tripod turnstile with 600 mm passage width and arm that drops on power failure, ESD flap barrier with 600 mm customizable passage, ESD swing gate with bidirectional entry/exit and go/no-go indicators, and the ESD wall-mounted unit with 7-inch display. Card, fingerprint and face recognition options, offline or TCP/IP networked, built for electrostatic-protected workshop entry in EMS and SMT/THT factories. www.smthelp.com
+- **Key Specs**: Model: SEC900 · Tripod Turnstile: L1200 × W280 × H980 mm, passage 600 mm · Flap Barrier: L1200 × W300 × H980 mm, passage 600 mm (customizable) · Swing Gate: L1200 × W280 × H980 mm, passage 600 mm (customizable) · Wall-Mounted Unit: L440 × W270 × H75 mm · Display: 7-inch · Recognition: card / fingerprint / face (optional) · Networking: offline or TCP/IP · Direction: bidirectional · Fire safety: arm drops / gates open on power failure · Tester standards: GJB 3007-97, SJ/T 10694-1996, ANSI ESD S20.20
+- **Spec source**: `SEC900 Intelligent ESD Access Control System Turnstile Gate.pptx` slides 4, 5 and 8 — every figure printed on the poster is confirmed there.
+- **Tags**: SEC900, ESD access control system, ESD turnstile gate, ESD tripod turnstile, ESD flap barrier, ESD swing gate, ESD wall-mounted tester, electrostatic access control, anti-static gate, ESD shoe and wrist strap tester, 600 mm passage width turnstile, 7 inch display access control, face recognition turnstile, electronics factory ESD control, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `esd-access-control-turnstile-gate-sec900-tripod-turnstile-flap-barrier-swing-gate-ems-southern-machinery.meta.json`
+
+### SEC900 — ESD Access Control Gate Portfolio (installation layout)
+
+- **File**: `esd-access-control-turnstile-gate-sec900-tripod-turnstile-flap-barrier-swing-gate-alt-layout-ems-southern-machinery.png` (16:9, 1672x941)
+- **Source**: Same SEC900 artwork set, numbered 1-4 layout using on-site installation photos (`ig_0fcafe5133291e97016a47d3bd560c819ab281c7a50b364c9d.png`, 2026-07-03)
+- **SEO Title**: ESD Access Control Turnstile Gate SEC900 Installations | Tripod Turnstile, Flap Barrier, Swing Gate | Southern Machinery
+- **Meta Description**: Southern Machinery SEC900 intelligent ESD access control gate range shown in real customer installations: 1 ESD tripod turnstile with 600 mm passage width and arm that drops on power failure, 2 ESD flap barrier with 600 mm customizable passage, 3 ESD swing gate with bidirectional entry/exit and go/no-go indicators, 4 ESD wall-mounted unit with 7-inch display and card/fingerprint/face options. Offline or TCP/IP networked, built for electrostatic-protected workshop entry in EMS and SMT/THT factories. www.smthelp.com
+- **Key Specs**: Model: SEC900 · 1 Tripod Turnstile: passage 600 mm · 2 Flap Barrier: passage 600 mm (customizable) · 3 Swing Gate: passage 600 mm (customizable) · 4 Wall-Mounted Unit: L440 × W270 × H75 mm · Display: 7-inch · Recognition: card / fingerprint / face (optional) · Networking: offline or TCP/IP · Direction: bidirectional · Fire safety: arm drops / gates open on power failure
+- **Tags**: SEC900, ESD access control system, ESD tripod turnstile installation, ESD flap barrier, ESD swing gate, ESD wall-mounted unit, anti-static gate, ESD shoe and wrist strap tester, 600 mm passage width turnstile, 7 inch display access control, go no-go indicator gate, electronics factory ESD control, EMS factory equipment, Southern Machinery, SMThelp
+- **Full metadata**: `esd-access-control-turnstile-gate-sec900-tripod-turnstile-flap-barrier-swing-gate-alt-layout-ems-southern-machinery.meta.json`
+
+> **Note**: both SEC900 layouts are published, matching the treatment of the S-XF52P pair — they are two finished designs of the same product range and dropping one would silently lose a finished asset.

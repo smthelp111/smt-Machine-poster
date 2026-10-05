@@ -1,0 +1,71 @@
+{
+  "source_pdf": "In-house marketing one-pager `ig_06301a4bf0d21443016a47d4ad0ab8819bb052cc8680aa8fdb.png` (Gate Type Portfolio, clean studio product shots) produced for the SEC900 ESD access control system. Specifications verified against the in-house deck `SEC900 Intelligent ESD Access Control System Turnstile Gate.pptx` (slide 4, Product Types).",
+  "generated_at": "2026-07-03",
+  "contributed_at": "2026-10-05",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "landscape product-range poster — title block plus four gate-type tiles (clean product photography), brand header and contact footer",
+    "pixels": "1672x941",
+    "aspect_ratio": "1.777",
+    "watermark": null
+  },
+  "layout_variant": "A — four tiles over clean product shots: ESD Tripod Turnstile, ESD Flap Barrier, ESD Swing Gate, ESD Wall-Mounted Unit",
+  "sibling_layout": "esd-access-control-turnstile-gate-sec900-tripod-turnstile-flap-barrier-swing-gate-alt-layout-ems-southern-machinery.png (same product range, numbered layout using on-site installation photos)",
+  "product": {
+    "model": "SEC900",
+    "name": "Intelligent ESD Access Control System — Gate Type Portfolio",
+    "category": "ESD access control turnstiles and gates for electrostatic-protected work areas — tripod turnstile, flap barrier, swing gate and wall-mounted tester unit",
+    "target_audience": "EMS and electronics factories, ESD-protected workshop and SMT/THT production areas needing mandatory wrist-strap and ESD-shoe testing before entry, facility and EHS managers, line integrators"
+  },
+  "seo": {
+    "filename": "esd-access-control-turnstile-gate-sec900-tripod-turnstile-flap-barrier-swing-gate-ems-southern-machinery.png",
+    "title": "ESD Access Control Turnstile Gate SEC900 | Tripod Turnstile, Flap Barrier, Swing Gate | Southern Machinery",
+    "description": "Southern Machinery SEC900 intelligent ESD access control system gate type portfolio: ESD tripod turnstile with 600 mm passage width and arm that drops on power failure, ESD flap barrier with 600 mm customizable passage, ESD swing gate with bidirectional entry/exit and go/no-go indicators, and the ESD wall-mounted unit with 7-inch display. Card, fingerprint and face recognition options, offline or TCP/IP networked, built for electrostatic-protected workshop entry in EMS and SMT/THT factories. www.smthelp.com",
+    "keywords": [
+      "SEC900",
+      "ESD access control system",
+      "ESD turnstile gate",
+      "ESD tripod turnstile",
+      "ESD flap barrier",
+      "ESD swing gate",
+      "ESD wall-mounted tester",
+      "electrostatic access control",
+      "anti-static gate",
+      "ESD shoe and wrist strap tester",
+      "600 mm passage width turnstile",
+      "7 inch display access control",
+      "face recognition turnstile",
+      "ESD protected area entry control",
+      "electronics factory ESD control",
+      "EMS factory equipment",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "SEC900 intelligent ESD access control system gate type portfolio poster from Southern Machinery — ESD tripod turnstile, ESD flap barrier, ESD swing gate and ESD wall-mounted unit with a 7-inch display."
+  },
+  "key_specs": {
+    "Model": "SEC900",
+    "System": "Intelligent ESD Access Control System (turnstile gate range)",
+    "ESD Tripod Turnstile — Chassis Size": "L1200 × W280 × H980 mm (customizable)",
+    "ESD Tripod Turnstile — Passage Width": "600 mm",
+    "ESD Flap Barrier — Chassis Size": "L1200 × W300 × H980 mm (customizable)",
+    "ESD Flap Barrier — Passage Width": "600 mm (customizable)",
+    "ESD Swing Gate — Chassis Size": "L1200 × W280 × H980 mm (customizable)",
+    "ESD Swing Gate — Passage Width": "600 mm (customizable)",
+    "ESD Wall-Mounted Unit — Chassis Size": "L440 × W270 × H75 mm (customizable)",
+    "Display Screen": "7-inch",
+    "Recognition Method": "Card / fingerprint / face, etc. (optional)",
+    "Networking Mode": "Offline or networked (TCP/IP)",
+    "Operating Direction": "Bidirectional (entry and exit)",
+    "Fire Safety Application": "Tripod turnstile arm drops automatically on power failure; flap barrier and swing gate open automatically on power failure",
+    "Indicator Lights": "Go / No-Go (and passage indicators on flap barrier and swing gate)",
+    "Tester Standards": "GJB 3007-97, SJ/T 10694-1996 and ANSI ESD S20.20"
+  },
+  "spec_source": "SEC900 Intelligent ESD Access Control System Turnstile Gate.pptx (slide 4 Product Types, slide 5 additional types, slide 8 tester parameters). Every figure printed on this poster — 600 mm passage width, 600 mm customizable passage, 7-inch display, arm/gate release on power failure, card/fingerprint/face options, bidirectional operation — is confirmed by that in-house deck. No unverified numbers are published here.",
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  },
+  "contact_on_artwork": "Shenzhen Southern Machinery Sales and Service Co., Ltd. | leo@smthelp.com | +86 132 6546 3306 | www.smthelp.com"
+}
