@@ -1,0 +1,59 @@
+{
+  "source_pdf": "In-house AI-assisted product portfolio artwork — Southern Machinery SMT & THT automation range (portrait infographic layout, 1055x1491)",
+  "generated_at": "2026-06-11",
+  "contributed_at": "2026-10-06",
+  "contributed_by": "leoliao (GitHub: smthelp159)",
+  "brand": "Southern Machinery (SMThelp.com)",
+  "asset": {
+    "format": "portrait product portfolio poster",
+    "pixels": "1055x1491",
+    "aspect_ratio": "0.708",
+    "watermark": null
+  },
+  "product": {
+    "model": "Product Portfolio",
+    "name": "SMT & THT Automation Product Portfolio (portrait infographic layout)",
+    "category": "Full-range portfolio — feeding automation, pick & place, material storage, intelligent connectivity",
+    "target_audience": "EMS factories, SMT/THT line planners, procurement and process engineers"
+  },
+  "seo": {
+    "filename": "smt-tht-automation-product-portfolio-feeding-nozzles-reel-storage-southern-machinery.png",
+    "title": "SMT & THT Automation Product Portfolio | Feeders, Nozzles & Smart Reel Storage | Southern Machinery",
+    "description": "Southern Machinery SMT & THT automation portfolio in a portrait infographic layout: ten feeding automation solutions (axial, radial, tube, bowl, belt, label, tray, jumper wire, solder chip, reel terminal), special application nozzles, smart SMT reel storage with 7-inch and 13-inch options, and proven applications on Panasonic CM602, JUKI, Yamaha and Mirae lines. www.smthelp.com",
+    "keywords": [
+      "SMT automation",
+      "THT automation",
+      "SMT feeder",
+      "axial tape feeder",
+      "radial tape feeder",
+      "tube feeder",
+      "bowl feeder",
+      "special application nozzles",
+      "gripper nozzle",
+      "smart SMT reel storage",
+      "SMT product portfolio",
+      "EMS factory equipment",
+      "Panasonic CM602",
+      "JUKI",
+      "Yamaha",
+      "Mirae",
+      "Southern Machinery",
+      "SMThelp"
+    ],
+    "og_image_alt": "SMT & THT Automation Product Portfolio portrait poster — feeding automation solutions, special application nozzles, smart reel storage and four service benefits."
+  },
+  "key_specs": {
+    "Feeding Automation Solutions": "Ten categories shown: axial tape, radial tape, tube, bowl, belt, label, tray, jumper wire, solder chip and reel terminal feeders",
+    "Special Application Nozzles": "Gripper nozzles, custom nozzles and THT component handling",
+    "Smart SMT Reel Storage": "7-inch & 13-inch storage options; full traceability; automatic stock monitoring (as printed on the artwork — to be confirmed against the reel-storage-rack spec sheet)",
+    "High Compatibility": "Compatible with all major SMT machine brands",
+    "Custom Engineering": "Tailored solutions for unique production needs",
+    "Stable Production": "Robust design for consistent performance",
+    "Labor Saving": "Automatic handling to reduce labor and increase efficiency",
+    "Proven Applications": "Panasonic CM602, JUKI, Yamaha, Mirae"
+  },
+  "contact": {
+    "website": "https://www.smthelp.com",
+    "email": "info@smthelp.com"
+  }
+}
